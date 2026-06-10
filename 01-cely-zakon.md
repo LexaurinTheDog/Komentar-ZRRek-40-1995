@@ -28,6 +28,15 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 83/2014 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/531593) — 21. 7. 2016
+  > „§ 1 odst. 2 zákona č. 40/1995 Sb., stanoví, že reklamou se rozumí oznámení, předvedení či jiná prezentace šířené zejména komunikačními médii, mající za cíl podporu podnikatelské činnosti … Reklamní sdělením v širším slova smyslu je tedy podle zdejšího soudu mimo jiné i sdělení veřejně propagující obchodní firmu či ochrannou známku"
+- *NSS* [10 Ad 17/2022 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716475) — 15. 11. 2023
+  > „V první řadě je nutno podle názoru soudu na toto sdělení nahlížet skutečně jako na reklamu. … Zdravotnické zařízení pak i těmito sděleními zjevně prezentovalo sebe sama za účelem podpory svojí podnikatelské činnosti. Nepochybně tedy takové sdělení splňuje obecnou definici reklamy dle zákona o regulaci reklamy"
+- *NSS* [59 A 59/2019 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/419247) — 25. 6. 2020
+  > „Není tedy chybný závěr prezentovaný správním orgánem I. stupně v odůvodnění jeho rozhodnutí, že ostatní nápisy svým množstvím a velikostí v souhrnu značně překročily označovací a informační funkci stanoveného označení „kasino“, popř. „casino“ a plní již primárně funkci propagační, reklamní"
+
 #### Předmět úpravy a transpoziční klauzule (odst. 1)
 
 Úvodní ustanovení plní tři funkce: (i) formuluje **transpoziční klauzuli** — výslovně oznamuje, že ZRR zapracovává unijní předpisy uvedené v poznámce pod čarou č. 1 (zejména směrnici 2005/29/ES o nekalých obchodních praktikách, směrnici 2003/33/ES o tabákové reklamě, kodexovou směrnici 2001/83/ES o humánních léčivech a směrnici 2008/122/ES o timeshare); (ii) navazuje na **přímo použitelné předpisy EU** (zejména nařízení 2017/745 MDR, 2017/746 IVDR, 2019/4 o medikovaných krmivech, 2019/6 o veterinárních léčivech); (iii) vymezuje **věcný rozsah** zákona — vyčerpávajícím výčtem oblastí a typů reklamy.
@@ -137,6 +146,13 @@ Pojem reklamy v § 1 odst. 2 je funkční a objektivní: o reklamu jde vždy, sp
 > *- d) akce, na něž se zákaz šíření reklamy nevztahuje.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 112/2018 - 108](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700445) — 11. 4. 2022
+  > „Na základě všech shora uvedených skutečností soud dospěl k závěru, že s ohledem na průměrného spotřebitele a použitou nadsázku nelze dospět k závěru, že Reklama vybízí k častému a systematickému sázení a vzbuzuje dojem, že bude-li se divák držet určitého způsobu sázení, bude zaručeně opakovaně vyhrávat, a tedy, že Reklama nedosahuje takové intenzity, aby byla v rozporu s dobrými mravy podle § 2 odst. 3 zákona č. 40/1995 Sb"
+- *NSS* [3 A 96/2016 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/465456) — 7. 2. 2018
+  > „Z ust. § 2 odst. 1 písm. b) zákona č. 40/1995 Sb. vyplývá, že je zakázána reklama, která je nekalou obchodní praktikou podle zvláštního právního předpisu … Ze zákonné dikce vyplývá, že se tedy jedná o delikt (nyní přestupek) ohrožovací. Právě proto, že posuzovaný správní delikt patří mezi delikty ohrožovací, pro jeho spáchání je postačující, že zákonem chráněný zájem byl pouze ohrožen a škodlivý následek nemusel nutně nastat"
 
 #### Katalog absolutních zákazů (odst. 1)
 
@@ -268,6 +284,11 @@ Speciální pravidlo zužující přípustnost srovnávací reklamy v citlivé o
 Důvodem je **ochrana laické veřejnosti** před manipulací zdravotními informacemi, jejichž odborné posouzení vyžaduje kvalifikované vzdělání. Pro laickou veřejnost je srovnávací reklama na tyto produkty zakázána absolutně (vyplývá z § 5a odst. 7 písm. b/ a § 5l odst. 4 písm. b/).
 
 Pravidlo navazuje na čl. 90 odst. 1 písm. a) směrnice 2001/83/ES, který zakazuje veřejnou reklamu naznačující záruční nebo srovnatelné účinky léčivého přípravku.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 174/2024 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742377) — 11. 6. 2025
+  > „Srovnávací reklama na humánní léčivé přípravky je obecně zakázána. Zákon ji připouští jen tehdy, je li zaměřena na odborníky – osoby oprávněné tyto léčivé přípravky předepisovat nebo vydávat (§ 2a zákona o regulaci reklamy)"
 
 #### F. Kazuistika
 
@@ -420,6 +441,11 @@ Ustanovení formuluje **obecný princip ochrany nezletilých** v reklamě. Není
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 75/2007 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/611310) — 9. 4. 2008
+  > „Z toho je zřejmé, že tato reklama má být možná skutečně pouze výjimečně, a to v zákonem přesně vymezených situacích. Stanovené výjimky je pak třeba přesně dodržovat a nikoli jejich působnost vykládat extenzivně. Důležitým vodítkem při výkladu jednotlivých ustanovení, která reklamu připouští, je tady také smysl právní úpravy regulace reklamy. Tím je snížení počtu kuřáků, zejména mezi dětmi a mládeží, a to právě omezením reklamy na tabákové výrobky"
+
 #### Generální zákaz s úzkými výjimkami (odst. 1)
 
 Reklama na tabákové výrobky a sponzorství s tabákovým účelem jsou v ČR od roku 2005 (s plnou účinností v rámci EU od 2003 podle směrnice 2003/33/ES) **zakázány obecně**. Zákaz se vztahuje:
@@ -528,6 +554,11 @@ Striktní zákaz — i v rámci povolených výjimek je distribuce bezplatných 
 > *(2) Zakazuje se jakákoli forma sponzorování akcí, činností nebo jednotlivců, jejichž cílem nebo přímým nebo nepřímým účinkem je propagace elektronických cigaret a náhradních náplní do nich, pokud se objekt sponzorování týká několika členských států Evropské unie nebo se koná v několika členských státech Evropské unie anebo dosahuje přeshraničního účinku jiným způsobem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 44/2024 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/725788) — 18. 10. 2024
+  > „Zákaz reklamy na elektronické cigarety dle § 3a zákona č. 40/1995 Sb., o regulaci reklamy, se nevztahuje na obchodní sdělení, kterými se rozumí především přiměřené označení specializované provozovny navenek, dále pak upozornění na výrobky ve výkladní skříni specializované provozovny a obchodní sdělení slovem, písmem či obrazem uvnitř této prodejny.“ … přiměřenost je míněna právě jako jedno z klíčových rozlišovacích kritérií pro odlišení obchodního sdělení od reklamy"
 
 #### Mírnější regulace než u tabákových výrobků
 
@@ -674,6 +705,11 @@ Regulace je tedy v některých ohledech **přísnější než pro tabákové vý
 > *- f) zdůrazňovat obsah alkoholu jako kladnou vlastnost nápoje.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Ca 43/2009 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/561176) — 7. 9. 2011
+  > „Již z gramatického výkladu za použití spojky „ nebo“ vyplývá, že k porušení tohoto ustanovení postačí naplnění té části skutkové podstaty spočívající v tom, že reklama na alkoholické nápoje nesmí využívat prvky, prostředky nebo akce, které osoby mladší 18 let oslovují. … Skutková podstata předmětného správního deliktu stanoví meze přiměřenosti reklamy na alkohol ve vztahu k míře působení reklamy na děti a mladistvé. Chrání před navozením radosti z pití alkoholu za situací, které oslovují děti a mladistvé"
 
 #### Obsahová regulace, nikoli generální zákaz
 
@@ -903,6 +939,13 @@ Reklama musí podporovat **racionální farmakoterapii** — objektivní předst
 > *(8) Jestliže je reklama zaměřená na širokou veřejnost zamýšlena jako připomínka humánního léčivého přípravku, nesmí obsahovat jiné údaje než název humánního léčivého přípravku tak, jak je uveden v rozhodnutí o registraci, nebo jeho mezinárodní nechráněný název, jestliže takový existuje, popřípadě ochrannou známku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 165/2025 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746786) — 6. 11. 2025
+  > „Zákaz reklamy na humánní léčivé přípravky, jejichž výdej je vázán na lékařský předpis, zaměřené na širokou veřejnost podle § 5a odst. 2 písm. a) zákona č. 40/1995 Sb., o regulaci reklamy, se vztahuje také na případy, v nichž není v reklamě zmíněn určitý léčivý přípravek, ale je nepochybné, že se týká přípravku vázaného na lékařský předpis.“ … zákaz reklamy ve smyslu uvedeného ustanovení se nevztahuje pouze na reklamu týkající se určitého (konkrétního) léčivého přípravku"
+- *NSS* [6 Ca 90/2009 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/554140) — 21. 5. 2013
+  > „S těmito závěry, z nichž vyplývá, že zákonem požadovaný text musí být průměrným spotřebitelem bez obtíží postřehnutelný, se Nejvyšší správní soud opakovaně ztotožnil i v případě výkladu ustanovení § 5a odst. 5 písm. d) zákona č. 40/1995 Sb. … Zřetelný text je takový, který je zaregistrovatelný, zaznamenatelný, postřehnutelný bez větších problémů"
 
 #### Omezení reklamy směřované na laickou veřejnost (odst. 1, 2)
 
@@ -1189,6 +1232,13 @@ Pravidlo navazuje na **transplantační zákon** (zákon č. 285/2002 Sb.) a **t
 > *(4) Reklama na potravinu pro zvláštní výživu musí obsahovat zřetelný, v případě tištěné reklamy dobře čitelný, text „potravina pro zvláštní výživu".*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 20/2022 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709755) — 31. 3. 2023
+  > „[d]oplněk stravy je v souladu s platnou právní úpravou potravinou, a proto nelze akceptovat reklamní sdělení, které tuto potravinu způsobem prezentace a charakteristikou přiblíží léčivům, až dokonce vyvolá dojem, že v podstatě se jedná o léčivo. … Je pouze nutné spotřebitele dostatečně informovat o povaze výrobku, kterým je doplněk stravy, se sdělením o účincích a působení látek obsažených v přípravku a zřetelně uvést, že se nejedná o léčivo a že v případě zdravotních potíží je třeba se obrátit na lékaře"
+- *NSS* [8 A 267/2010 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/551426) — 30. 1. 2014
+  > „Podle rozsudku Nejvyššího správního soudu ze dne 31. 7. 2008, čj. 7 As 49/2007-66 ustanovení § 5d zákona č. 40/1995 Sb., o regulaci reklamy, ve znění účinném do 25. 1. 2006 (reklama na potraviny), je aplikovatelné i na doplňky stravy ve smyslu § 2 písm. j) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích, ve znění účinném do 14. 5. 2008"
 
 #### Výživová a zdravotní tvrzení (odst. 1)
 
@@ -1596,6 +1646,11 @@ Pravidlo transponuje **směrnici 2008/122/ES o ochraně spotřebitele ve vztahu 
 > *(3) Reklama na hazardní hru musí obsahovat sdělení o zákazu účasti osob mladších 18 let na hazardní hře a viditelné a zřetelné varování tohoto znění: „Ministerstvo financí varuje: Účastí na hazardní hře může vzniknout závislost!".*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 32/2019 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/422785) — 10. 3. 2020
+  > „Z porovnání úpravy obsažené v citovaných ustanoveních § 66 odst. 2 zákona o hazardních hrách a v § 5j zákona o regulaci reklamy je evidentní, že ve vztahu k regulaci reklamy je úprava obsažená v zákoně o hazardních hrách úpravou speciální k úpravě provedené zákonem o regulaci reklamy; tento závěr ostatně obecně vzato vyplývá i ze samotného vztahu obou zákonů, totiž obecného zákona o regulaci reklamy a speciálního zákona o hazardních hrách"
 
 #### Obsahové meze reklamy na povolené hazardní hry
 
@@ -2112,6 +2167,11 @@ Reklama je **omezena na úzký okruh kanálů**:
 
 Cílem je vyloučit reklamu zbraní v obecných médiích a vůči široké veřejnosti, zejména pak v médiích přístupných nezletilým. Pravidlo není výslovně harmonizováno EU právem, ale navazuje na **směrnici Rady 91/477/EHS o kontrole nabývání a držení zbraní** ve znění směrnice (EU) 2017/853.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Vol 11/2017 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/644312) — 16. 11. 2017
+  > „Zobrazování zbraní ve volební kampani právní řád nezakazuje. Ačkoliv je propagace zbraní obecně právními předpisy regulována (§ 6 zákona č. 40/1995 Sb., o regulaci reklamy), nelze tuto úpravu automaticky vztáhnou i na volební kampaň, a to už proto, že předmět propagace ve volební kampani není zbraň samotná, ale daný politický subjekt, příp. kandidát"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Prodejce zbraní (PO) spustí na obecné video platformě a na billboardech u silnic kampaň propagující novou pistoli s heslem „Buďte připraveni — pořiďte si ji ještě dnes"; reklama je dostupná široké veřejnosti vč. nezletilých. Souběžně inzeruje v odborném sběratelském časopise pro držitele zbrojních průkazů. Orgán dozoru (krajský živnostenský úřad, u video platformy RRTV) zahájí řízení. Důkazy: podoba a umístění reklamy, médium a jeho dostupnost, doklad o cílové skupině.
@@ -2167,6 +2227,11 @@ Cílem je vyloučit reklamu zbraní v obecných médiích a vůči široké veř
 **Výklad:**
 
 Reaguje na **etické problémy** v marketingu pohřebních služeb — typicky tzv. „lov pozůstalých" v nemocnicích a v okamžiku úmrtí blízkého. Pravidlo je samostatnou českou úpravou bez přímé unijní předlohy a navazuje na **zákon č. 256/2001 Sb., o pohřebnictví**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Ca 22/2009 - 146](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/568198) — 1. 11. 2010
+  > „Specifika poskytování pohřebních a souvisejících služeb jsou vyjádřena přísnější reglementací ve vztahu k reklamě na tyto služby obsaženou v § 6a zákona č. 40/1995 Sb., o regulaci reklamy, ve znění pozdějších předpisů. … Tato přísnější reglementace se však týká pouze reklamy … nikoli obecně sdělování informací o podmínkách poskytování služeb, např. již v rámci probíhajícího kontraktačního jednání"
 
 #### Tři místa a formy zákazu
 
@@ -2229,6 +2294,11 @@ NSS rozhodnutí 6 As 161/2013 potvrdilo, že i jen vizitky pohřebních služeb 
 > *(4) Příjemce příspěvku podle § 1 odst. 4 odpovídá za jeho využití v souladu s tímto zákonem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 140/2023 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738978) — 11. 12. 2024
+  > „Stěžovatelka má pravdu v tom, že podle zákona o regulaci reklamy je šiřitel reklamy povinen kontrolnímu orgánu „pouze“ sdělit, kdo je zadavatelem a zpracovatelem reklamy, na druhou stranu je však nutno dodat, že šiřitel reklamy je při kontrole zároveň osobou kontrolovanou, a spadá tak pod režim kontrolního řádu, podle kterého je povinen poskytovat kontrolnímu orgánu potřebnou součinnost"
 
 #### Klíčové ustanovení o odpovědnosti
 
@@ -2412,6 +2482,11 @@ V praxi může u téže reklamy vzniknout **souběh kompetencí** — např. tab
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 140/2023 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738978) — 11. 12. 2024
+  > „Účelem kontroly v daném případě bylo zjistit, kdo je osobou odpovědnou za obsah reklamy šířené stěžovatelkou. … Jelikož pouhé sdělení jména a kontaktu na osoby odpovědné za obsah šířené reklamy nemusí být pro účely navazující kontroly dostatečné, je zcela pochopitelné, že si kontrolní orgán tato sdělení ze strany kontrolované osoby nechá doložit relevantními podklady, které má tato osoba k dispozici (např. smlouvy, daňové doklady apod.)"
+
 #### Pětileté uchovávací období
 
 Zadavatel musí uchovávat **kopii každé reklamy** po dobu nejméně **5 let** od posledního šíření, prodlouženě do pravomocného rozhodnutí v případě zahájeného správního řízení. Lhůta je delší než obecná promlčecí doba u přestupků (3 roky podle § 30 zákona č. 250/2016 Sb.), aby pokryla i komplexnější řízení.
@@ -2544,6 +2619,11 @@ Test **přiměřenosti** požadavku (odst. 2) chrání zadavatele před šikanó
 > *(2) Orgán dozoru rozhodnutí vydané podle odstavce 1 nebo podle § 8a vhodným způsobem zveřejní, jestliže by v důsledku dalšího šíření reklamy mohl být ohrožen život nebo zdraví osob. Orgán dozoru je oprávněn zadavateli nebo zpracovateli reklamy nařídit ve stanovené lhůtě zveřejnění opravného prohlášení k reklamě, která byla shledána pravomocným rozhodnutím nepovolenou srovnávací reklamou nebo nekalou obchodní praktikou a o jejímž odstranění nebo ukončení bylo pravomocně rozhodnuto, ve stejném komunikačním médiu, kterým byla taková reklama šířena. Náklady na zveřejnění opravného prohlášení nese ten, komu orgán dozoru jeho zveřejnění nařídil.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 268/2019 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654664) — 13. 5. 2020
+  > „povinnost odstranit zakázanou reklamu podle § 7c odst. 1 zákona o regulaci reklamy může být uložena každému … Ustanovení § 7c odst. 1 zákona o regulaci reklamy – na rozdíl od ustanovení § 7a odst. 4, které umožňuje uložit povinnost šiřiteli reklamy – adresáta povinnosti nespecifikuje, proto jím může být každý"
 
 #### Tři nápravná opatření (odst. 1)
 
@@ -2687,6 +2767,15 @@ Opravné prohlášení je obdobou soukromoprávní zdržovací žaloby a omluvy 
 > *- c) do 2 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), d), e), f), g), h), i), k), l), n), o) nebo p), podle odstavce 2 písm. a), b), c), e) nebo f) nebo podle odstavce 3 písm. a), b), c), d), e), g) nebo h).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1898/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1898-09_1) — nález, 17. 2. 2010
+  > „Smyslem uvedené jednoroční prekluzivní subjektivní lhůty je přimět správní orgán k aktivní činnosti - včetně zjišťování a prokazování, kdo je za porušení zákona odpovědný - bezprostředně od okamžiku, kdy se dozví o skutkových okolnostech v takovém rozsahu, který umožní předběžné právní zhodnocení, že došlo k porušení zákona jako takového; to platí s ohledem na ústavní princip právní jistoty a na povinnost správního orgánu rozhodnout bez zbytečných průtahů"
+- *ÚS* [I.ÚS 947/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-947-09_1) — nález, 17. 3. 2010
+  > „Zjistit porušení zákona ve smyslu citovaného ustanovení § 8 odst. 5 zákona č. 40/1995 Sb. totiž neznamená postavit najisto, že k porušení zákona nesporně došlo, postačí, že vznikne odůvodněné podezření, že se tak stalo; prokázání porušení zákona je předmětem dále vedeného správního řízení. … Předmětná lhůta je ovšem i prostředkem ochrany účastníka správního řízení proti postupu orgánu veřejné moci, jde o ustanovení sloužící především zájmům účastníků, jimž dává právní jistotu ohledně lhůty, v níž musí být věc vyřízena"
+- *NSS* [10 A 11/2015 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/543833) — 27. 5. 2015
+  > „Počátek běhu prekluzivní subjektivní lhůty ve smyslu § 8 odst. 5 zákona č. 40/1995 Sb., o regulaci reklamy, je dán okamžikem vědomosti o skutkových okolnostech v takovém rozsahu, který umožní předběžné právní zhodnocení, že došlo k porušení zákona jako takového"
 
 #### Systematika přestupků fyzických osob
 
@@ -2892,6 +2981,11 @@ Přestupky podle § 8 jsou stíhány v režimu **zákona č. 250/2016 Sb. o odpo
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 12/2021 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716450) — 11. 9. 2023
+  > „Předtím než soud přistoupí k posouzení materiálního aspektu deliktního jednání nutno připomenout smysl a cíl ust. § 8a odst. 1 zákona č. 40/1995 Sb. … Dle důvodové zprávy zákona o regulaci reklamy je smyslem ustanovení o reklamě zakázané dle nařízení obce ochrana před „reklamním smogem“, přílišným obtěžováním reklamou, hyzděním veřejného prostoru reklamou, znečišťováním veřejného prostoru (např. rozhazováním reklamních letáků) apod"
+
 #### Souběžná struktura s § 8
 
 § 8a je strukturálně paralelní k § 8, ale dopadá na **právnické osoby a podnikající fyzické osoby** — typicky reklamní agentury, vydavatelství, provozovatele vysílání, výrobce a distributory produktů.
@@ -3035,6 +3129,11 @@ Pokuty jsou:
 > *(2) Proti rozhodnutí orgánu dozoru uvedeného v § 7 písm. a) vydanému podle § 7c, 8 a 8a nelze podat odvolání. Podání správní žaloby proti rozhodnutí orgánu dozoru uvedeného v § 7 písm. a) o uložení pokuty za přestupek má odkladný účinek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [21 As 152/2025 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746248) — 22. 10. 2025
+  > „zákon č. 231/2001 Sb., zákon č. 132/2010 Sb., o audiovizuálních mediálních službách na vyžádání … a zákon č. 40/1995 Sb., o regulaci reklamy … obsahují výslovnou výjimku z použití správního řádu, a to právě pokud jde o konání odvolacího, respektive rozkladového řízení (viz § 66 zákona č. 231/2001 Sb., § 16 zákona č. 132/2010 Sb., § 8c odst. 2 zákona č. 40/1995 Sb.)"
 
 #### Dvě procesní cesty
 
