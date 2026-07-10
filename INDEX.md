@@ -19,6 +19,10 @@
 ## Vazby
 [ZOS 634/1992](/home/vojtech/Komentar-ZOS-634-1992/), [ZL 378/2007](/home/vojtech/Komentar-ZL-378-2007/) (léčiva).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
