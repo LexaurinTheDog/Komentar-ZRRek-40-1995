@@ -113,6 +113,66 @@ Pojem reklamy v § 1 odst. 2 je funkční a objektivní: o reklamu jde vždy, sp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dcd8788ed87a73f8fdca generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon zapracovává příslušné předpisy Evropské unie1), zároveň navazuje na přímo použitelný předpis Evropské unie45) a upravuje regulaci reklamy, která je nekalou obchodní praktikou, reklamy srovnávací, reklamy na tabákové výrobky, na humánní léčivé přípravky, na veterinární léčivé přípravky, na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro, na potraviny a na počáteční a pokračovací kojeneckou výživu, a upravuje obecné požadavky na reklamu a její šíření včetně postihů za porušení povinností podle tohoto zákona a stanovení orgánů dozoru. Dále upravuje regulaci reklamy na alkoholické nápoje, na přípravky na ochranu rostlin, na střelné zbraně a střelivo a na činnosti v pohřebnictví.
+>
+> (2) Reklamou se rozumí oznámení, předvedení či jiná prezentace šířené zejména komunikačními médii, mající za cíl podporu podnikatelské činnosti, zejména podporu spotřeby nebo prodeje zboží, výstavby, pronájmu nebo prodeje nemovitostí, prodeje nebo využití práv nebo závazků, podporu poskytování služeb, propagaci ochranné známky,1a) pokud není dále stanoveno jinak.
+>
+> (3) Komunikačními médii, kterými je reklama šířena, se rozumí prostředky umožňující přenášení reklamy, zejména periodický tisk2) a neperiodické publikace,3) rozhlasové a televizní vysílání3a), audiovizuální mediální služby na vyžádání3b), služby platforem pro sdílení videonahrávek, audiovizuální produkce,4) počítačové sítě, nosiče audiovizuálních děl, plakáty a letáky.
+>
+> (4) Sponzorováním se rozumí příspěvek poskytnutý s cílem podporovat výrobu nebo prodej zboží, poskytování služeb nebo jiné výkony sponzora. Sponzorem se rozumí právnická nebo fyzická osoba, která takový příspěvek k tomuto účelu poskytne.
+>
+> (5) Zadavatelem reklamy (dále jen „zadavatel“) je pro účely tohoto zákona právnická nebo fyzická osoba, která objednala u jiné právnické nebo fyzické osoby reklamu.
+>
+> (6) Zpracovatelem reklamy (dále jen „zpracovatel“) je pro účely tohoto zákona právnická nebo fyzická osoba, která pro sebe nebo pro jinou právnickou nebo fyzickou osobu zpracovala reklamu. Pokud zpracovatel zpracuje reklamu pro sebe, je pro účely tohoto zákona zároveň v postavení zadavatele.
+>
+> (7) Šiřitelem reklamy (dále jen „šiřitel“) je pro účely tohoto zákona právnická nebo fyzická osoba, která reklamu veřejně šíří.
+>
+> (8) Ustanovení tohoto zákona se vztahují na sponzorování, pokud není dále stanoveno jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dcd8788ed87a73f8fdca -->
+
 ### § 2 — Obecné zákazy reklamy
 
 > **§ 2**
@@ -271,6 +331,78 @@ Doplňující procesně-obsahové meze pro obecní nařízení podle odst. 1 pí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=39689b593123143637d6 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se
+>
+> - a) reklama zboží, služeb nebo jiných výkonů či hodnot, jejichž prodej, poskytování nebo šíření je v rozporu s právními předpisy,
+>
+> - b) reklama, která je nekalou obchodní praktikou podle zvláštního právního předpisu5); za takovou reklamu se nepovažuje umístění produktu v audiovizuálním díle nebo jiném zvukově obrazovém záznamu, splňuje-li podmínky stanovené jiným právním předpisem3a),3b),
+>
+> - c) šíření nevyžádané reklamy v listinné podobě, pokud adresáta obtěžuje; za reklamu, která obtěžuje, se považuje reklama směřující ke konkrétnímu adresátovi za podmínky, že adresát dal předem jasně a srozumitelně najevo, že si nepřeje, aby vůči němu byla nevyžádaná reklama šířena,
+>
+> - d) reklama šířená na veřejně přístupných místech mimo provozovnu jiným způsobem než prostřednictvím reklamního nebo propagačního zařízení zřízeného podle zvláštního právního předpisu5b), stanoví-li tak obec svým nařízením vydaným v přenesené působnosti5c), v rozsahu uvedeném v odstavci 5,
+>
+> - e) reklama na hazardní hru zakázanou podle zákona upravujícího hazardní hry.
+>
+> (2) Srovnávací reklama je přípustná za podmínek stanovených tímto zákonem a občanským zákoníkem.
+>
+> (3) Reklama nesmí být v rozporu s dobrými mravy, zejména nesmí obsahovat jakoukoliv diskriminaci z důvodů rasy, pohlaví nebo národnosti nebo napadat náboženské nebo národnostní cítění, ohrožovat obecně nepřijatelným způsobem mravnost, snižovat lidskou důstojnost, obsahovat prvky pornografie, násilí nebo prvky využívající motivu strachu. Reklama nesmí napadat politické přesvědčení.
+>
+> (4) Reklama nesmí podporovat chování poškozující zdraví nebo ohrožující bezpečnost osob nebo majetku, jakož i jednání poškozující zájmy na ochranu životního prostředí.
+>
+> (5) Obec v nařízení vydaném podle odstavce 1 písm. d) stanoví
+>
+> - a) veřejně přístupná místa, na nichž je reklama podle odstavce 1 písm. d) zakázána,
+>
+> - b) dobu, v níž je reklama podle odstavce 1 písm. d) zakázána,
+>
+> - c) druhy komunikačních médií, kterými nesmí být reklama podle odstavce 1 písm. d) šířena, popřípadě též
+>
+> - d) akce, na něž se zákaz šíření reklamy nevztahuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39689b593123143637d6 -->
+
 ### § 2a — Srovnávací reklama na léčivé přípravky a zdravotní služby
 
 > **§ 2a**
@@ -327,6 +459,52 @@ Pravidlo navazuje na čl. 90 odst. 1 písm. a) směrnice 2001/83/ES, který zaka
 **Typicky rozhodné důkazy / podklady:** podoba reklamy, distribuční/cílový plán (komu adresována), podklady prokazující správnost srovnání, doklad o povaze adresátů (odborníci vs. laici).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3c8aa4739706f5e07f0e generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 2a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Srovnávací reklama na léčivé přípravky určené k podávání lidem (dále jen „humánní léčivé přípravky“), zdravotní služby, zdravotnické prostředky nebo na diagnostické zdravotnické prostředky in vitro je při splnění podmínek stanovených občanským zákoníkem přípustná, je-li zaměřena na osoby oprávněné tyto léčivé přípravky, zdravotnické prostředky nebo diagnostické zdravotnické prostředky in vitro předepisovat nebo vydávat (dále jen „odborníci“) anebo tyto zdravotní služby poskytovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c8aa4739706f5e07f0e -->
 
 ### § 2c — Reklama vůči osobám mladším 18 let
 
@@ -394,6 +572,58 @@ Ustanovení formuluje **obecný princip ochrany nezletilých** v reklamě. Není
 **Typicky rozhodné důkazy / podklady:** záznam reklamy, nastavení a demografie cílení, smlouvy s tvůrci/influencery, expertní posouzení dopadu na nezletilé.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=08d695ed4928c80bef74 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 2c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama nesmí, pokud jde o osoby mladší 18 let,
+>
+> - a) podporovat chování ohrožující jejich zdraví, psychický nebo morální vývoj,
+>
+> - b) využívat jejich zvláštní důvěry vůči jejich rodičům nebo zákonným zástupcům nebo jiným osobám,
+>
+> - c) nevhodným způsobem je ukazovat v nebezpečných situacích.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08d695ed4928c80bef74 -->
 
 ## Speciální komoditní regulace
 
@@ -543,6 +773,86 @@ Striktní zákaz — i v rámci povolených výjimek je distribuce bezplatných 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=95cbb65cca479ea3ecd5 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 3 — Tabákové výrobky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na tabákové výrobky10) a rovněž sponzorování, jehož účelem nebo přímým či nepřímým účinkem je reklama na tabákové výrobky, jsou zakázány, pokud není dále stanoveno jinak. To platí též pro sponzorování akcí nebo činností, které se týkají několika členských států Evropské unie nebo jiných států tvořících Evropský hospodářský prostor nebo se konají v několika členských státech Evropské unie nebo v jiných státech tvořících Evropský hospodářský prostor nebo dosahují přeshraničních účinků jiným způsobem.
+>
+> (2) Reklamou na tabákové výrobky se rozumí též
+>
+> - a) jakákoliv forma obchodního sdělení, jehož účelem nebo přímým či nepřímým účinkem je propagace tabákového výrobku,
+>
+> - b) distribuce tabákového výrobku zdarma, jejímž účelem nebo přímým či nepřímým účinkem je propagace tabákového výrobku nebo distribuce zdarma, která má takový přímý či nepřímý účinek v souvislosti se sponzorováním podle odstavce 1,
+>
+> - c) reklama, která se nezmiňuje přímo o tabákovém výrobku, ale využívá ochranné známky1a), emblému nebo jiného charakteristického rysu tabákového výrobku, pokud dále není stanoveno jinak.
+>
+> (3) Za reklamu na tabákové výrobky se nepovažuje užití ochranné známky1) tabákového výrobku registrované nebo užívané pro tabákové nebo jiné výrobky nebo služby před účinností tohoto zákona na reklamu jiných než tabákových výrobků nebo služeb. Přitom způsob, jakým je informace o výrobku nebo službě šířena, musí být zřetelně odlišen od způsobu šíření informace o tabákovém výrobku.
+>
+> (4) Zákaz reklamy podle odstavce 1 se nevztahuje na
+>
+> - a) reklamu v periodickém tisku2), neperiodických publikacích3), na letácích, plakátech nebo v jiných tiskovinách nebo reklamu šířenou prostřednictvím služeb informační společnosti10a) určených výlučně profesionálům v oblasti obchodu s tabákovými výrobky,
+>
+> - b) reklamu na tabákové výrobky ve specializovaných prodejnách tabákových výrobků nebo ve výkladní skříni a na přiměřené označení těchto prodejen,
+>
+> - c) reklamu na tabákové výrobky v provozovnách, ve kterých se prodává nebo poskytuje široký sortiment zboží nebo služeb, jedná-li se o reklamu umístěnou v té části provozovny, která je určena k prodeji tabákových výrobků,
+>
+> - d) sponzorování motoristických soutěží a sponzorskou komunikaci v místě konání, nejedná-li se o sponzorování akcí nebo činností, které se týkají několika členských států Evropské unie nebo jiných států tvořících Evropský hospodářský prostor nebo se konají v několika členských státech Evropské unie nebo v jiných státech tvořících Evropský hospodářský prostor nebo dosahují přeshraničních účinků jiným způsobem,
+>
+> - e) publikace, které jsou tištěné a vydávané ve třetích zemích, pokud nejsou především určeny pro vnitřní trh Evropské unie.
+>
+> (5) Reklama na tabákové výrobky podle odstavce 4 písm. a) až d) musí obsahovat zřetelné varování tohoto znění: „Ministerstvo zdravotnictví varuje: kouření způsobuje rakovinu“, a to v rozsahu nejméně 20 % reklamního sdělení. U písemné reklamy musí být text varování uveden na bílém podkladu uspořádaném podél spodního okraje reklamní plochy v rozsahu nejméně 20 % této plochy. Text musí být vytištěn černým velkým tučným písmem tak, aby dosáhl celkovou výšku nejméně 80 % výšky bílého podkladu. Reklama šířená audiovizuálním způsobem musí obsahovat titulky s varováním podle vět první a druhé.
+>
+> (6) Reklama na tabákové výrobky podle odstavce 4 písm. a) až d) nesmí
+>
+> - a) být zaměřena na osoby mladší 18 let, zejména zobrazením těchto osob nebo užitím prvků, prostředků nebo akcí, které takové osoby převážně oslovují,
+>
+> - b) nabádat ke kouření slovy nebo například tím, že zobrazuje scény s otevřenými krabičkami cigaret nebo scény, kde lidé kouří nebo drží cigarety, balíčky cigaret nebo jiné tabákové výrobky nebo kuřácké potřeby,
+>
+> - c) v souvislosti s nákupem tabákových výrobků nabízet nebo naznačovat bezplatné nebo jiné výhody, a to zejména ve formě nabídky jakéhokoli zboží, služeb, množstevních slev nebo jiných pobídek.
+>
+> (7) V reklamě podle odstavce 4 se zakazuje bezplatné dodávání vzorků tabákových výrobků široké veřejnosti, mající za cíl propagaci tabákového výrobku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=95cbb65cca479ea3ecd5 -->
+
 ### § 3a — Elektronické cigarety
 
 > **§ 3a**
@@ -612,6 +922,54 @@ E-cigarety jsou současně regulovány v zákoně č. 65/2017 Sb., který stanov
 **Typicky rozhodné důkazy / podklady:** snímky/výtisky reklamy, údaj o určení a distribuci média, doklad o objednavateli a šiřiteli, případně doklad o profesním/třetizemním charakteru publikace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=93c260d0ec316e3177a4 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 3a — Elektronické cigarety
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se reklama, jejímž cílem nebo přímým nebo nepřímým účinkem je propagace elektronických cigaret a náhradních náplní do nich, šířená prostřednictvím služeb informační společnosti10a) nebo v periodickém tisku2), neperiodických publikacích3), na letácích, plakátech nebo jiných tiskovinách, s výjimkou publikací, které jsou určeny výlučně profesionálům v obchodě s elektronickými cigaretami a náhradními náplněmi do nich, a publikací, které jsou tištěny a zveřejněny ve třetích zemích, pokud tyto publikace nejsou primárně určeny pro vnitřní trh Evropské unie.
+>
+> (2) Zakazuje se jakákoli forma sponzorování akcí, činností nebo jednotlivců, jejichž cílem nebo přímým nebo nepřímým účinkem je propagace elektronických cigaret a náhradních náplní do nich, pokud se objekt sponzorování týká několika členských států Evropské unie nebo se koná v několika členských státech Evropské unie anebo dosahuje přeshraničního účinku jiným způsobem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93c260d0ec316e3177a4 -->
 
 ### § 3b — Psychomodulační látky
 
@@ -683,6 +1041,62 @@ Regulace je tedy v některých ohledech **přísnější než pro tabákové vý
 **Typicky rozhodné důkazy / podklady:** klasifikace látky, podoba reklamního obsahu, smlouvy o sponzoringu, fotodokumentace prezentace, doklad o místě šíření (zda jde o specializovanou prodejnu).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c49bd558e43c7a656bf4 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 3b — Psychomodulační látky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se reklama, jejímž cílem nebo přímým nebo nepřímým účinkem je propagace psychomodulačních látek11), šířená prostřednictvím služeb informační společnosti10a) nebo v periodickém tisku2), neperiodických publikacích3), na letácích, plakátech nebo jiných tiskovinách nebo jiným způsobem.
+>
+> (2) Zakazuje se jakákoli forma sponzorování akcí, činností nebo jednotlivců, jejichž cílem nebo přímým nebo nepřímým účinkem je propagace psychomodulačních látek.
+>
+> (3) Reklamou na psychomodulační látky se rozumí také
+>
+> - a) jakákoliv forma obchodního sdělení, jehož účelem nebo přímým nebo nepřímým účinkem je propagace psychomodulační látky,
+>
+> - b) distribuce psychomodulační látky zdarma, jejímž účelem nebo přímým či nepřímým účinkem je propagace psychomodulační látky, nebo distribuce zdarma, která má takový přímý či nepřímý účinek v souvislosti se sponzorováním podle odstavce 2.
+>
+> (4) Zákaz reklamy podle odstavce 1 se nevztahuje na reklamu na psychomodulační látky ve vnitřních prostorách prodejny specializované na prodej psychomodulačních látek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c49bd558e43c7a656bf4 -->
 
 ### § 4 — Alkoholické nápoje
 
@@ -772,6 +1186,64 @@ Obecná zásada § 2 odst. 4 (zákaz podpory chování poškozujícího zdraví)
 **Typicky rozhodné důkazy / podklady:** záznam a scénář reklamy, médium a čas šíření, expertní posouzení celkového vyznění, doklad o zadavateli/zpracovateli.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d0b212d249c1a56a93ce generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 4 — Alkoholické nápoje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama na alkoholické nápoje12) nesmí
+>
+> - a) nabádat k nestřídmému užívání alkoholických nápojů anebo záporně či ironicky hodnotit abstinenci nebo zdrženlivost,
+>
+> - b) být zaměřena na osoby mladší 18 let, zejména nesmí tyto osoby ani osoby, které jako mladší 18 let vyhlížejí, zobrazovat při spotřebě alkoholických nápojů nebo nesmí využívat prvky, prostředky nebo akce, které osoby mladší 18 let oslovují,
+>
+> - c) spojovat spotřebu alkoholu se zvýšenými výkony nebo být užita v souvislosti s řízením vozidla,
+>
+> - d) vytvářet dojem, že spotřeba alkoholu přispívá ke společenskému nebo sexuálnímu úspěchu,
+>
+> - e) tvrdit, že alkohol v nápoji má léčebné vlastnosti nebo povzbuzující nebo uklidňující účinek anebo že je prostředkem řešení osobních problémů,
+>
+> - f) zdůrazňovat obsah alkoholu jako kladnou vlastnost nápoje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0b212d249c1a56a93ce -->
 
 ## Humánní léčivé přípravky
 
@@ -881,6 +1353,78 @@ Reklama musí podporovat **racionální farmakoterapii** — objektivní předst
 **Typicky rozhodné důkazy / podklady:** reklamní materiály, aktuální SmPC, program a financování odborných akcí, seznam účastníků, podklady ke srovnávacím tvrzením.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2730ba9ab0a2db9f5976 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5 — Humánní léčivé přípravky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Za reklamu na humánní léčivé přípravky se považují také všechny informace, přesvědčování nebo pobídky určené k podpoře předepisování, dodávání, prodeje, výdeje nebo spotřeby humánních léčivých přípravků. Jedná se zejména o
+>
+> - a) návštěvy obchodních zástupců s humánními léčivými přípravky u osob oprávněných je předepisovat, dodávat nebo vydávat,
+>
+> - b) dodávání vzorků humánních léčivých přípravků,
+>
+> - c) podporu předepisování, výdeje a prodeje humánních léčivých přípravků pomocí daru, spotřebitelské soutěže a nabídkou nebo příslibem jakéhokoli prospěchu nebo finanční či věcné odměny,
+>
+> - d) sponzorování setkání konaných za účelem podpory předepisování, prodeje, výdeje nebo spotřeby humánních léčivých přípravků a navštěvovaných odborníky,
+>
+> - e) sponzorování vědeckých kongresů s účastí odborníků a úhrada nákladů na cestovné a ubytování souvisejících s jejich účastí.
+>
+> (2) Ustanovení tohoto zákona se nevztahují na
+>
+> - a) označování humánních léčivých přípravků a na příbalové informace podle zvláštních právních předpisů,13)
+>
+> - b) korespondenci nutnou k zodpovězení specifických dotazů na konkrétní humánní léčivý přípravek a případné doprovodné materiály nereklamní povahy,
+>
+> - c) prodejní katalogy a ceníky, pokud neobsahují popis vlastností humánních léčivých přípravků, dále na oznámení, upozornění a poskytnutí informací, týkajících se například změn balení, varování před nežádoucími účinky humánního léčivého přípravku,
+>
+> - d) údaje o lidském zdraví nebo onemocněních, pokud neobsahují žádný odkaz, a to ani nepřímý, na humánní léčivý přípravek.
+>
+> (3) Předmětem reklamy může být pouze humánní léčivý přípravek registrovaný podle zvláštního právního předpisu.14)
+>
+> (4) Jakékoliv informace obsažené v reklamě na humánní léčivý přípravek musí odpovídat údajům uvedeným v souhrnu údajů15) tohoto přípravku.
+>
+> (5) Reklama na humánní léčivý přípravek musí podporovat jeho racionální používání objektivním představením tohoto přípravku bez přehánění jeho vlastností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2730ba9ab0a2db9f5976 -->
 
 ### § 5a — Reklama na HLP zaměřená na širokou veřejnost (OTC)
 
@@ -1035,6 +1579,100 @@ Tzv. **reminder advertising** — pouhé připomínání existence HLP — smí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=173c69b637a33180a3c3 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5a — Reklama na humánní léčivé přípravky zaměřená na širokou veřejnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Předmětem reklamy určené široké veřejnosti mohou být humánní léčivé přípravky, které jsou podle svého složení a účelu uzpůsobeny a koncipovány tak, že mohou být použity bez stanovení diagnózy, předpisu nebo léčení praktickým lékařem, popřípadě na radu lékárníka.
+>
+> (2) Předmětem reklamy zaměřené na širokou veřejnost nesmí být
+>
+> - a) humánní léčivé přípravky, jejichž výdej je vázán pouze na lékařský předpis,
+>
+> - b) humánní léčivé přípravky obsahující omamné nebo psychotropní látky.16)
+>
+> (3) Ustanovení odstavce 2 se nevztahuje na humánní léčivé přípravky použité v rámci vakcinační akce schválené Ministerstvem zdravotnictví.
+>
+> (4) Zakazuje se poskytování vzorků humánních léčivých přípravků široké veřejnosti.
+>
+> (5) Reklama zaměřená na širokou veřejnost musí
+>
+> - a) být formulována tak, aby bylo zřejmé, že výrobek je humánním léčivým přípravkem,
+>
+> - b) obsahovat název humánního léčivého přípravku tak, jak je uveden v rozhodnutí o registraci. Pokud humánní léčivý přípravek obsahuje jen jednu léčivou látku, musí reklama obsahovat i běžný název tohoto humánního léčivého přípravku,
+>
+> - c) obsahovat informace nezbytné pro správné použití humánního léčivého přípravku,
+>
+> - d) obsahovat zřetelnou, v případě tištěné reklamy dobře čitelnou, výzvu k pečlivému pročtení příbalové informace.
+>
+> (6) Reklama na humánní léčivé přípravky, u kterých nebyla v rámci registračního řízení posuzována účinnost15a), může obsahovat pouze údaje uváděné na obalu či v příbalové informaci těchto humánních léčivých přípravků podle zvláštních právních předpisů15b).
+>
+> (7) Reklama zaměřená na širokou veřejnost nesmí
+>
+> - a) vyvolávat dojem, že porada s lékařem, lékařský zákrok nebo léčba nejsou potřebné, zvláště nabídkou stanovení diagnózy nebo nabídkou léčby na dálku,
+>
+> - b) naznačovat, že účinky podávání humánního léčivého přípravku jsou zaručené, nejsou spojeny s nežádoucími účinky nebo jsou lepší či rovnocenné účinkům jiné léčby nebo jiného humánního léčivého přípravku,
+>
+> - c) naznačovat, že používáním humánního léčivého přípravku se zlepší zdraví toho, kdo jej užívá,
+>
+> - d) naznačovat, že nepoužitím humánního léčivého přípravku může být nepříznivě ovlivněn zdravotní stav osob, s výjimkou vakcinačních akcí schválených Ministerstvem zdravotnictví,
+>
+> - e) být zaměřena výhradně na osoby mladší 15 let,
+>
+> - f) doporučovat humánní léčivý přípravek s odvoláním na doporučení vědců, zdravotnických odborníků nebo osob, které jimi nejsou, ale které by díky svému skutečnému nebo předpokládanému společenskému postavení mohly podpořit spotřebu humánních léčivých přípravků,
+>
+> - g) naznačovat, že humánní léčivý přípravek je potravinou nebo kosmetickým přípravkem nebo jiným spotřebním zbožím,
+>
+> - h) naznačovat, že bezpečnost či účinnost humánního léčivého přípravku je zaručena pouze tím, že je přírodního původu,
+>
+> - i) popisem nebo podrobným vylíčením konkrétního průběhu určitého případu vést k možnému chybnému stanovení vlastní diagnózy,
+>
+> - j) poukazovat nevhodným, přehnaným nebo zavádějícím způsobem na možnost uzdravení,
+>
+> - k) používat nevhodným, přehnaným nebo zavádějícím způsobem vyobrazení změn na lidském těle způsobených nemocí či úrazem nebo působení humánního léčivého přípravku na lidské tělo nebo jeho části.
+>
+> (8) Jestliže je reklama zaměřená na širokou veřejnost zamýšlena jako připomínka humánního léčivého přípravku, nesmí obsahovat jiné údaje než název humánního léčivého přípravku tak, jak je uveden v rozhodnutí o registraci, nebo jeho mezinárodní nechráněný název, jestliže takový existuje, popřípadě ochrannou známku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=173c69b637a33180a3c3 -->
+
 ### § 5b — Reklama na HLP zaměřená na odborníky
 
 > **§ 5b**
@@ -1159,6 +1797,82 @@ Obdoba § 5a odst. 8 — i u reklamy odborníkům platí, že pouhé „přípom
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=77db2127fd62052f5d79 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5b — Reklama na humánní léčivé přípravky zaměřená na odborníky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na humánní léčivé přípravky zaměřená na odborníky může být šířena pouze prostřednictvím komunikačních prostředků určených převážně pro tyto odborníky (například odborných neperiodických publikací, odborného periodického tisku, odborných audiovizuálních pořadů).
+>
+> (2) Reklama podle odstavce 1 musí obsahovat
+>
+> - a) přesné, aktuální, prokazatelné a dostatečně úplné údaje umožňující odborníkům vytvořit si vlastní názor o terapeutické hodnotě humánního léčivého přípravku. Údaje převzaté z odborných publikací nebo z odborného tisku musí být přesně reprodukovány a musí být uveden jejich zdroj,
+>
+> - b) základní informace podle schváleného souhrnu údajů o přípravku, včetně data schválení nebo poslední revize,
+>
+> - c) informaci o způsobu výdeje humánního léčivého přípravku podle rozhodnutí o registraci,
+>
+> - d) informaci o způsobu hrazení z prostředků veřejného zdravotního pojištění.
+>
+> Ustanovení tohoto odstavce neplatí pro reklamu na humánní léčivé přípravky, u kterých nebyla v rámci registračního řízení posuzována účinnost15a). Pro obsah reklamy zaměřené na odborníky na tyto přípravky platí § 5a odst. 6.
+>
+> (3) Obchodní zástupce17) musí při každé návštěvě provedené za účelem reklamy humánního léčivého přípravku předat navštívenému odborníkovi souhrn údajů o každém humánním léčivém přípravku, který je předmětem reklamy, a informaci o způsobu hrazení těchto humánních léčivých přípravků. Obchodní zástupce je povinen bez zbytečného odkladu předávat příslušnému držiteli rozhodnutí o registraci17a) informace o významných skutečnostech, o kterých se při výkonu své činnosti dozví, týkajících se použití léčivého přípravku, pro který provádí reklamu, a to zejména o všech nežádoucích účincích jemu ohlášených navštívenými osobami.
+>
+> (4) V souvislosti s reklamou na humánní léčivé přípravky zaměřenou na odborníky se zakazuje jim nabízet, slibovat nebo poskytovat dary nebo jiný prospěch, ledaže jsou nepatrné hodnoty a mají vztah k jimi vykonávané odborné činnosti.
+>
+> (5) Rozsah bezplatně poskytovaného pohoštění a ubytování
+>
+> - a) při setkání navštěvovaném odborníky konaném za účelem podpory předepisování, prodeje, výdeje nebo spotřeby humánních léčivých přípravků, nebo
+>
+> - b) při setkání odborníků konaném za odborným nebo vědeckým účelem,
+>
+> musí být přiměřený, s ohledem na hlavní účel setkání vedlejší, a nesmí být rozšířen na jiné osoby než odborníky; v takovém případě pro rozsah poskytovaného pohoštění a ubytování neplatí zákaz podle odstavce 4.
+>
+> (6) Odborníci nesmí v souvislosti s reklamou humánních léčivých přípravků vyžadovat ani přijímat výhody zakázané podle odstavce 4 nebo které jsou v rozporu s odstavcem 5.
+>
+> (7) Vzorky humánních léčivých přípravků mohou být poskytnuty pouze výjimečně osobám oprávněným je předepisovat, a to v omezeném počtu nejvýše pro jeden kalendářní rok, každý vzorek musí odpovídat nejmenšímu balení humánního léčivého přípravku uvedenému na trh a musí být označen nápisem „Neprodejný vzorek“ nebo „Bezplatný vzorek“. Přípravky obsahující omamné a psychotropní látky16) se nesmí poskytovat. Vzorky humánních léčivých přípravků lze poskytovat pouze na písemnou žádost osoby oprávněné je předepisovat, která je podepsaná a je na ní datum vystavení.
+>
+> (8) Jestliže je reklama zaměřená na odborníky zamýšlena jako připomínka humánního léčivého přípravku, nesmí obsahovat jiné údaje než název humánního léčivého přípravku tak, jak je uveden v rozhodnutí o registraci, nebo jeho mezinárodní nechráněný název, jestliže takový existuje, popřípadě ochrannou známku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77db2127fd62052f5d79 -->
+
 ### § 5c — Reklama podporující darování lidských tkání a buněk
 
 > **§ 5c**
@@ -1216,6 +1930,56 @@ Pravidlo navazuje na **transplantační zákon** (zákon č. 285/2002 Sb.) a **t
 **Typicky rozhodné důkazy / podklady:** podoba reklamy, ceník/struktura odměn, smluvní podmínky, vymezení účelu (léčebný vs. komerční), doklady o nákladech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1ffc8537caf1e6813be generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5c — Reklama podporující darování lidských tkání a buněk
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama podporující darování lidských tkání nebo buněk za finanční odměnu nebo jiné srovnatelné výhody se zakazuje.
+>
+> (2) Reklama týkající se potřeby nebo dostupnosti lidských tkání a buněk určených pro použití u člověka, jejímž účelem je nebo která může sloužit k získání finančního zisku nebo jiných srovnatelných výhod, se zakazuje.
+>
+> (3) Odstavcem 1 nebo [[#§ 2|2]] není dotčeno zajišťování informovanosti a zákaz inzerování a reklamy podle zákona upravujícího provádění transplantací17b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1ffc8537caf1e6813be -->
 
 ## Potraviny a kojenecká výživa
 
@@ -1296,6 +2060,58 @@ Reklama musí být v souladu se:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf019b3fc04945a0c244 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) V reklamě na potraviny mohou být uvedena výživová nebo zdravotní tvrzení za podmínek přímo použitelného předpisu Evropské unie21a).
+>
+> (2) Reklama na potraviny22) musí splňovat požadavky stanovené zákonem [[o potravinách a tabákových výrobcích|o potravinách a tabákových výrobcích]]41), zejména pokud jde o uvedení informace naznačující, že země původu potraviny je Česká republika, přímo použitelným předpisem Evropské unie o poskytování informací o potravinách spotřebitelům39) a přímo použitelnými předpisy Evropské unie, které stanoví pravidla pro použití označení původu, zeměpisných označení a tradičních výrazů40).
+>
+> (3) Reklama na doplněk stravy23b) musí obsahovat zřetelný, v případě tištěné reklamy dobře čitelný, text „doplněk stravy“.
+>
+> (4) Reklama na potravinu pro zvláštní výživu23) musí obsahovat zřetelný, v případě tištěné reklamy dobře čitelný, text „potravina pro zvláštní výživu“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf019b3fc04945a0c244 -->
+
 ### § 5e — Reklama na počáteční kojeneckou výživu
 
 > **§ 5e**
@@ -1362,6 +2178,56 @@ Pravidlo je jedním z nejpřísnějších omezení marketingu v ZRR a často je 
 **Typicky rozhodné důkazy / podklady:** podoba a médium reklamy, fotodokumentace prodejní propagace, doklady o distribuci vzorků/darů a jejich příjemcích, zařazení produktu dle vyhlášky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4879eabe77421c29a146 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na počáteční kojeneckou výživu24) musí obsahovat pouze vědecké a věcně správné údaje, může být uváděna pouze v publikacích zaměřených na péči o kojence a ve vědeckých publikacích a nesmí vést k závěru, že počáteční kojenecká výživa je rovnocenná mateřskému mléku nebo je lepší.
+>
+> (2) V prodejnách je zakázána reklama, která je způsobilá podněcovat širokou veřejnost ke koupi počáteční kojenecké výživy, zejména rozdáváním vzorků, zvláštním způsobem vystavení, poukazem na slevu nebo zvláštní výhodou.
+>
+> (3) Výrobcům a prodejcům počáteční kojenecké výživy se zakazuje předávat na veřejnosti bezplatně nebo se slevou výrobky, vzorky nebo dary na podporu prodeje. Zákaz podle věty první se vztahuje i na předávání výrobků se slevou, vzorků nebo jiných propagačních dárků těhotným ženám, matkám a členům jejich rodin na veřejnosti; zákaz podle věty první se nevztahuje na dary nebo poskytnutí se slevou zdravotnickým, charitativním nebo humanitárním institucím pro jejich interní použití nebo pro distribuci vně těchto institucí a organizací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4879eabe77421c29a146 -->
 
 ### § 5f — Reklama na počáteční a pokračovací kojeneckou výživu
 
@@ -1433,6 +2299,64 @@ Pojem **pokračovací kojenecká výživa** je definován vyhláškou č. 23/200
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=02e7166154d9b27ea4d4 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na počáteční a pokračovací25) kojeneckou výživu
+>
+> - a) musí obsahovat potřebné informace o správném užití výrobku a nesmí působit proti kojení,
+>
+> - b) nesmí obsahovat pojem jako „humanizované“ nebo „maternizované“ nebo podobný výraz, vyvolávající dojem, že se plně nahrazuje přirozené kojení.
+>
+> (2) Reklama na počáteční kojeneckou výživu
+>
+> - a) musí obsahovat zřetelný text: „Důležité upozornění“ poukazující na přednost kojení a doporučující, aby výrobek byl užíván jen na radu nezávislých odborníků z oboru medicíny, výživy nebo léčiv nebo jiných osob profesionálně se zabývajících péčí o kojence a malé děti,
+>
+> - b) nesmí obsahovat vyobrazení kojence ani jiný obrázek nebo tvrzení, které by mohlo idealizovat náhradu mateřského mléka. Může však obsahovat grafické znázornění pro snadnou identifikaci výrobku a pro ilustraci způsobu přípravy.
+>
+> (3) Reklama na počáteční a pokračovací kojeneckou výživu, zaměřená na těhotné ženy a matky malých dětí, musí vždy obsahovat jednoznačné informace uvedené ve zvláštních právních předpisech.26)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02e7166154d9b27ea4d4 -->
+
 ### § 5g — Přípravky na ochranu rostlin a pomocné prostředky
 
 > **§ 5g**
@@ -1491,6 +2415,52 @@ Orgánem dozoru je **Ústřední kontrolní a zkušební ústav zemědělský** 
 **Typicky rozhodné důkazy / podklady:** podoba reklamy, rozhodnutí o povolení přípravku/pomocného prostředku a rozsah povolení, etiketa, doklad o cílovém médiu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3c712457af0e5a77a570 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5g — Přípravky na ochranu rostlin a pomocné prostředky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama na přípravky na ochranu rostlin se řídí přímo použitelným předpisem Evropské unie26a). Předmětem reklamy na pomocné prostředky mohou být pouze povolené pomocné prostředky v rozsahu vlastností stanovených v povolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c712457af0e5a77a570 -->
 
 ### § 5h — Veterinární léčivé přípravky
 
@@ -1571,6 +2541,60 @@ Orgánem dozoru je **Ústav pro státní kontrolu veterinárních biopreparátů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e29a08b427ebb1489b4e generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5h — Veterinární léčivé přípravky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na veterinární léčivé přípravky se řídí nařízením Evropského parlamentu a Rady (EU) 2019/6. Předmětem reklamy zaměřené na širokou veřejnost nesmí být veterinární léčivé přípravky obsahující omamné nebo psychotropní látky16).
+>
+> (2) Není-li reklama na veterinární léčivé přípravky, jejichž výdej je vázán na předpis veterinárního lékaře podle čl. 34 nařízení Evropského parlamentu a Rady (EU) 2019/6, zaměřena na veterinární lékaře nebo na osoby oprávněné k jejich výdeji, je povolena pokud
+>
+> - a) je zaměřena na chovatele zvířat určených k produkci potravin, kteří mají tento chov jako svou hlavní podnikatelskou činnost,
+>
+> - b) splňuje podmínky stanovené v čl. 120 odst. 2 nařízení Evropského parlamentu a Rady (EU) 2019/6 a
+>
+> - c) nejde o srovnávací reklamu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e29a08b427ebb1489b4e -->
+
 ### § 5i — Dočasné užívání ubytovacího zařízení (timeshare)
 
 > **§ 5i**
@@ -1632,6 +2656,56 @@ Pravidlo transponuje **směrnici 2008/122/ES o ochraně spotřebitele ve vztahu 
 **Typicky rozhodné důkazy / podklady:** text pozvánky a reklamy, prezentační a smluvní materiály, záznam o průběhu prodejní akce, vymezení produktu podle OZ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=32b2f1b95b99b087781f generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5i — Dočasné užívání ubytovacího zařízení a jiné rekreační služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na dočasné užívání ubytovacího zařízení a jiné rekreační služby podle [[občanského zákoníku|občanského zákoníku]]26b), musí obsahovat údaj o právu spotřebitele získat informace, které musí být spotřebiteli poskytnuty před uzavřením smlouvy, nebo než je spotřebitel vázán svým návrhem na uzavření smlouvy, včetně uvedení místa a způsobu, kde a jak lze tyto informace získat.
+>
+> (2) Za reklamu podle odstavce 1 se považuje i nabídková nebo prodejní akce, v rámci které lze sjednat smlouvu, ve které se sjednává dočasné užívání ubytovacího zařízení, nebo jiná rekreační služba. Pozvánka na takové akce musí obsahovat zřetelné uvedení účelu a povahy akce.
+>
+> (3) Dočasné užívání ubytovacího zařízení a jiné rekreační služby nesmějí být nabízeny reklamou jako investice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32b2f1b95b99b087781f -->
 
 ### § 5j — Hazardní hry
 
@@ -1703,6 +2777,56 @@ Orgánem dozoru jsou **celní úřady** (a u RTV reklamy RRTV).
 **Typicky rozhodné důkazy / podklady:** záznam reklamy, nastavení a demografie cílení, doklad o licenci hry, kontrola přítomnosti a viditelnosti povinného varování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ef9ddaf8247d337c4ac1 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5j — Hazardní hry
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na hazardní hru podněcující k účasti na hazardní hře nesmí obsahovat sdělení, z něhož lze nabýt dojmu, že účast na hazardní hře může být zdrojem finančních prostředků obdobným získávání příjmů ze závislé, samostatné nebo jiné obdobné činnosti.
+>
+> (2) Reklama na hazardní hru nesmí být zaměřena na osoby mladší 18 let, a to zejména v podobě zobrazení těchto osob nebo užitím prvků, prostředků nebo akcí, které takové osoby převážně oslovují.
+>
+> (3) Reklama na hazardní hru musí obsahovat sdělení o zákazu účasti osob mladších 18 let na hazardní hře a viditelné a zřetelné varování tohoto znění: „Ministerstvo financí varuje: Účastí na hazardní hře může vzniknout závislost!“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef9ddaf8247d337c4ac1 -->
 
 ## Zdravotnické prostředky
 
@@ -1816,6 +2940,81 @@ Reklama nesmí budit dojem, že konkrétní orgán státní správy (Ministerstv
 **Typicky rozhodné důkazy / podklady:** reklamní materiály, doklad o CE značce / stavu posouzení shody, místo a způsob prezentace, podmínky spotřebitelské soutěže, doklad o úhradě z veřejného pojištění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a3a59ec79079d865755c generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5k — Zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Za reklamu na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro se považují také všechny formy informování, průzkumu nebo pobídek, konané za účelem podpory předepisování, výdeje, prodeje nebo používání zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro. Jedná se zejména o
+>
+> - a) návštěvy obchodních zástupců se zdravotnickými prostředky a diagnostickými zdravotnickými prostředky in vitro u osob oprávněných je předepisovat nebo vydávat,
+>
+> - b) dodávání vzorků zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro,
+>
+> - c) podporu předepisování, výdeje nebo prodeje zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro pomocí darů, spotřebitelské soutěže a nabídkou nebo příslibem jakéhokoliv prospěchu nebo finanční nebo věcné odměny,
+>
+> - d) sponzorování setkání konaných za účelem podpory předepisování, prodeje, výdeje nebo používání zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro a navštěvovaných odborníky, nebo
+>
+> - e) sponzorování vědeckých kongresů a jiných obdobných setkání s účastí odborníků a úhradu nákladů na dopravu a ubytování souvisejících s jejich účastí.
+>
+> (2) Ustanovení tohoto zákona se nevztahují na
+>
+> - a) korespondenci nutnou k zodpovězení specifických dotazů na konkrétní zdravotnický prostředek nebo diagnostický zdravotnický prostředek in vitro a případné doprovodné materiály nereklamní povahy,
+>
+> - b) prodejní katalogy a ceníky, pokud obsahují pouze základní popis vlastností zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro nutný k jejich identifikaci,
+>
+> - c) údaje o lidském zdraví nebo onemocněních, pokud neobsahují žádný odkaz, a to ani nepřímý, na zdravotnický prostředek nebo diagnostický zdravotnický prostředek in vitro.
+>
+> (3) Předmětem reklamy může být pouze zdravotnický prostředek, který lze uvádět na trh v souladu s nařízením Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) nebo diagnostický zdravotnický prostředek in vitro, který lze uvádět na trh v souladu s nařízením Evropského parlamentu a Rady (EU) 2017/74643), není-li dále stanoveno jinak.
+>
+> (4) Zdravotnický prostředek, který nesplňuje podmínky pro uvedení na trh podle nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42), může být prezentován nebo předváděn pouze na veletrzích, výstavách a předváděcích nebo podobných akcích, a to za předpokladu, že je označen v souladu s čl. 21 odst. 3 nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]44).
+>
+> (5) Diagnostický zdravotnický prostředek in vitro, který nesplňuje podmínky pro uvedení na trh podle nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43), může být prezentován nebo předváděn pouze na veletrzích, výstavách a předváděcích nebo podobných akcích, a to za předpokladu, že je označen v souladu s čl. 19 odst. 3 nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43).
+>
+> (6) Reklama na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro hrazené plně nebo částečně z veřejného zdravotního pojištění ve formě spotřebitelské soutěže, spočívající v množství předepsaných, vydaných nebo použitých prostředků, je zakázána.
+>
+> (7) Reklama na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro nesmí jakýmkoliv způsobem odkazovat na konkrétní orgány státní správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2017/745 (výslovně uvedeno v místním znění)
+- akt EU 2017/746 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a3a59ec79079d865755c -->
 
 ### § 5l — Reklama na ZP/IVD určená široké veřejnosti
 
@@ -1931,6 +3130,88 @@ Pouze obchodní název a ochranná známka.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=52384d06486d5d4bd976 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5l — Reklama na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro určená široké veřejnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Předmětem reklamy určené široké veřejnosti nesmí být zdravotnický prostředek a diagnostický zdravotnický prostředek in vitro, který je podle pokynů výrobce určen pouze pro použití zdravotnickým pracovníkem, a zdravotnický prostředek a diagnostický zdravotnický prostředek in vitro, který může být vydán pouze na poukaz nebo žádanku vystavené lékařem podle jiných právních předpisů.
+>
+> (2) Poskytování vzorků zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro uvedených v odstavci 1 široké veřejnosti se zakazuje.
+>
+> (3) Reklama na zdravotnický prostředek a diagnostický zdravotnický prostředek in vitro určená široké veřejnosti musí
+>
+> - a) být formulována tak, aby bylo zřejmé, že výrobek je zdravotnickým prostředkem nebo diagnostickým zdravotnickým prostředkem in vitro,
+>
+> - b) obsahovat obchodní název zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro,
+>
+> - c) obsahovat podstatu určeného účelu zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro a
+>
+> - d) obsahovat zřetelnou, v případě tištěné reklamy dobře čitelnou, výzvu k pečlivému pročtení návodu k použití zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro a informací, které se vztahují k jeho bezpečnému používání, pokud musí být ke zdravotnickému prostředku a diagnostickému zdravotnickému prostředku in vitro přiloženy podle jiného právního předpisu.
+>
+> (4) Reklama na zdravotnický prostředek a diagnostický zdravotnický prostředek in vitro určená široké veřejnosti nesmí
+>
+> - a) vyvolávat dojem, že porada s lékařem, lékařský zákrok nebo léčba nejsou potřebné, zvláště nabídkou stanovení diagnózy nebo nabídkou léčby na dálku,
+>
+> - b) naznačovat, že klinická účinnost zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro je zaručená, je lepší nebo rovnocenná s účinností jiné léčby nebo jiného zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro nebo že použití zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro není spojeno s riziky,
+>
+> - c) naznačovat, že nepoužitím zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro může být nepříznivě ovlivněn zdravotní stav osob,
+>
+> - d) být zaměřena výhradně na osoby mladší 15 let,
+>
+> - e) doporučovat zdravotnický prostředek a diagnostický zdravotnický prostředek in vitro s odvoláním na doporučení vědců, zdravotnických odborníků nebo osob, které jimi nejsou, ale které by díky svému skutečnému nebo předpokládanému společenskému postavení mohly podpořit používání zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro,
+>
+> - f) odkazovat na provedení klinických zkoušek ani jiných procesů, které jsou podmínkou pro uvedení zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro na trh,
+>
+> - g) naznačovat, že bezpečnost nebo účinnost zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro je zaručena pouze tím, že je přírodního původu,
+>
+> - h) popisem nebo podrobným vylíčením konkrétního průběhu určitého případu vést k možnému chybnému stanovení vlastní diagnózy,
+>
+> - i) poukazovat nevhodným, přehnaným nebo zavádějícím způsobem na možnost uzdravení,
+>
+> - j) používat nevhodným, přehnaným nebo zavádějícím způsobem vyobrazení změn na lidském těle způsobených nemocí nebo úrazem nebo působením zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro na lidské tělo nebo jeho části.
+>
+> (5) Jestliže je reklama zaměřená na širokou veřejnost zamýšlena jako připomínka zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro, nesmí obsahovat jiné údaje než obchodní název zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro, popřípadě ochrannou známku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52384d06486d5d4bd976 -->
+
 ### § 5m — Reklama na ZP/IVD zaměřená na odborníky
 
 > **§ 5m**
@@ -2016,6 +3297,62 @@ Pouze obchodní název, ochranná známka.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5891678fa5fab623f7ab generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5m — Reklama na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro zaměřená na odborníky a zaměstnance poskytovatele zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Reklama na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro zaměřená na odborníky a zaměstnance poskytovatele zdravotních služeb může být šířena pouze prostřednictvím komunikačních prostředků určených převážně pro tyto osoby, zejména v odborných publikacích, odborném tisku, odborných audiovizuálních pořadech nebo formou přímé komunikace s těmito osobami, a musí obsahovat
+>
+> - dostatečné, doložitelné a objektivní údaje, které umožní vytvořit si vlastní názor na klinický přínos, bezpečnost a účinnost konkrétního zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro; údaje převzaté z odborných publikací nebo z odborného tisku musí být přesně reprodukovány a musí být uveden jejich zdroj.
+>
+> (2) V souvislosti s reklamou na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro zaměřenou na odborníky a zaměstnance poskytovatele zdravotních služeb se zakazuje jim nabízet, slibovat nebo poskytovat dary nebo jiný prospěch, ledaže jsou nepatrné hodnoty a mají vztah k jimi vykonávané odborné činnosti. To neplatí pro poskytování vzorků zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro v množství potřebném pro vyzkoušení zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro v souladu s určeným účelem použití. Takto poskytnutý vzorek zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro musí být viditelně označen nápisem „Neprodejný vzorek“ nebo „Bezplatný vzorek“.
+>
+> (3) Při sponzorování setkání a vědeckých kongresů podle § 5k odst. 1 písm. d) a e) musí sponzorem nebo pořadatelem bezplatně poskytované pohoštění, ubytování a doprava být přiměřené účelu setkání, s ohledem na účel setkání vedlejší, a nesmí být rozšířeno na jiné osoby než odborníky a zaměstnance poskytovatele zdravotních služeb; v takovém případě pro rozsah poskytovaného pohoštění, ubytování a dopravy neplatí zákaz podle odstavce 2.
+>
+> (4) Odborníci a zaměstnanci poskytovatele zdravotních služeb nesmí v souvislosti s reklamou na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro vyžadovat ani přijímat výhody zakázané podle odstavce 2, nebo které jsou v rozporu s odstavcem 3.
+>
+> (5) Jestliže je reklama zaměřená na odborníky a zaměstnance poskytovatele zdravotních služeb zamýšlena jako připomínka zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro, nesmí obsahovat jiné údaje než obchodní název zdravotnického prostředku a diagnostického zdravotnického prostředku in vitro, popřípadě ochrannou známku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5891678fa5fab623f7ab -->
+
 ### § 5n — Reklama na výrobky cílící na zdraví
 
 > **§ 5n**
@@ -2090,6 +3427,60 @@ Ustanovení je důležitým prostředkem proti **„health-washing"** v reklamě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6847e1689824224d4ca7 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5n — Reklama na výrobky cílící na zdraví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se reklama na výrobek cílící na zdraví, který není léčivým přípravkem, ani zdravotnickým prostředkem, ani diagnostickým zdravotnickým prostředkem in vitro, ani potravinou pro zvláštní lékařské účely, která naznačuje, že výrobek je léčivým přípravkem, zdravotnickým prostředkem, diagnostickým zdravotnickým prostředkem in vitro nebo potravinou pro zvláštní lékařské účely.
+>
+> (2) Reklama na výrobek, který není léčivým přípravkem, zdravotnickým prostředkem, diagnostickým zdravotnickým prostředkem in vitro, potravinou pro zvláštní lékařské účely nebo jiným výrobkem, u něhož tento zákon stanoví jinak, nesmí
+>
+> - a) naznačovat, že používáním výrobku se zlepší nebo zachová zdravotní stav toho, kdo jej užívá,
+>
+> - b) naznačovat, že nepoužitím výrobku může být nepříznivě ovlivněn zdravotní stav osob,
+>
+> - c) doporučovat výrobek s odvoláním na doporučení vědců, zdravotnických odborníků nebo osob, které jimi nejsou, ale které by díky svému skutečnému nebo předpokládanému společenskému postavení mohly podpořit používání výrobku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6847e1689824224d4ca7 -->
+
 ### § 5o — Medikovaná krmiva a meziprodukty
 
 > **§ 5o**
@@ -2141,6 +3532,52 @@ Orgánem dozoru je **ÚKZÚZ** ve spolupráci s ÚSKVBL.
 **Typicky rozhodné důkazy / podklady:** podoba reklamy, médium a cílová skupina, doklad o schváleném použití krmiva, případně status předpisu a návaznost na nařízení 2019/6.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2ca5adacbdacfcbe0d9 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 5o — Medikovaná krmiva a meziprodukty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama na medikovaná krmiva a meziprodukty se řídí nařízením Evropského parlamentu a Rady (EU) 2019/4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2ca5adacbdacfcbe0d9 -->
 
 ### § 6 — Střelné zbraně a střelivo
 
@@ -2209,6 +3646,58 @@ Cílem je vyloučit reklamu zbraní v obecných médiích a vůči široké veř
 **Typicky rozhodné důkazy / podklady:** podoba a umístění reklamy, médium a jeho dostupnost/určení, doklad o cílové skupině, případně charakter publikace (odborná vs. obecná).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=42835bef9ceb29c16b97 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 6 — Střelné zbraně a střelivo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama na střelné zbraně a střelivo27) může být šířena jen
+>
+> - a) odborníkům a podnikatelům v oblasti výroby a prodeje střelných zbraní a střeliva,
+>
+> - b) v prostorách, v nichž se střelné zbraně nebo střelivo vyrábí, nabízí, prodává, užívá a vystavuje nebo v nichž dochází k uzavírání smluv na dodávky střelných zbraní a střeliva, nebo
+>
+> - c) v odborných publikacích a periodickém tisku2) zaměřených obecně na problematiku střelných zbraní a střeliva a v dalších tištěných materiálech určených pro prodejce a držitele střelných zbraní a střeliva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=42835bef9ceb29c16b97 -->
 
 ### § 6a — Činnosti v pohřebnictví
 
@@ -2280,6 +3769,58 @@ NSS rozhodnutí 6 As 161/2013 potvrdilo, že i jen vizitky pohřebních služeb 
 **Typicky rozhodné důkazy / podklady:** fotodokumentace reklamy a jejího umístění, vzorky adresných dopisů/letáků, výtisk inzerce a její kontext (vazba na úmrtní oznámení), doklad o zadavateli/šiřiteli.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa21307f0f4582496b06 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 6a — Činnosti v pohřebnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Reklama na provozování pohřební služby, na provozování krematoria nebo na provádění balzamace a konzervace nesmí být šířena
+>
+> - a) v areálu zdravotnického zařízení a zařízení sociálních služeb,
+>
+> - b) adresnou formou, zejména prostřednictvím dopisů, letáků nebo elektronickou poštou, nebo
+>
+> - c) v souvislosti s informováním o smrti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa21307f0f4582496b06 -->
 
 ### § 6b — Odpovědnost zadavatele, zpracovatele a šiřitele
 
@@ -2370,6 +3911,58 @@ Příjemce sponzorského příspěvku odpovídá za to, že jeho využití odpov
 **Typicky rozhodné důkazy / podklady:** smlouva a písemné zadání reklamy, finální podoba reklamy, korespondence o pokynech, žádost o identifikaci a odpověď šiřitele, doklady o sponzorském příspěvku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ebab7c735ae3a5ff1c4 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 6b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zpracovatel odpovídá za obsah reklamy v plném rozsahu, byla-li zpracována pro jeho vlastní potřebu. Pokud byla reklama zpracována pro potřeby jiné právnické nebo fyzické osoby, odpovídají za její soulad se zákonem zpracovatel a zadavatel společně a nerozdílně, není-li dále stanoveno jinak.
+>
+> (2) Šiřitel odpovídá za způsob šíření reklamy podle tohoto zákona a za šíření reklamy na hazardní hru zakázanou podle zákona upravujícího hazardní hry. Šiřitel je povinen oznámit osobě, která prokáže oprávněný zájem, kdo je zadavatelem a zpracovatelem reklamy.
+>
+> (3) Zadavatel se zprostí odpovědnosti za obsah šířené reklamy, který je v rozporu se zákonem, prokáže-li, že zpracovatel nedodržel při jejím zpracování jeho pokyny, a v důsledku toho je obsah této reklamy v rozporu se zákonem. Zpracovatel se nemůže zprostit odpovědnosti za obsah šířené reklamy poukazem na její zadání zadavatelem, ledaže by se jednalo o údaje, jejichž pravdivost není schopen posoudit ani s vynaložením veškerého úsilí.
+>
+> (4) Příjemce příspěvku podle § 1 odst. 4 odpovídá za jeho využití v souladu s tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ebab7c735ae3a5ff1c4 -->
 
 ## Dozor nad dodržováním zákona
 
@@ -2466,6 +4059,71 @@ V praxi může u téže reklamy vzniknout **souběh kompetencí** — např. tab
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=33fc581bc26896580841 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 7 — Dozor nad dodržováním zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> Orgány příslušnými k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru“) jsou
+>
+> - a) Rada pro rozhlasové a televizní vysílání3a) pro reklamu šířenou v rozhlasovém a televizním vysílání, v audiovizuálních mediálních službách na vyžádání a ve službách platforem pro sdílení videonahrávek a pro sponzorování v rozhlasovém a televizním vysílání, v audiovizuálních mediálních službách na vyžádání a ve službách platforem pro sdílení videonahrávek,
+>
+> - b) Státní ústav pro kontrolu léčiv29) nad dodržováním čl. 7 nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) v rozsahu, v jakém se týká reklamy na zdravotnické prostředky, pro reklamu na humánní léčivé přípravky, na lidské tkáně a buňky, na zdravotnické prostředky a diagnostické zdravotnické prostředky in vitro a sponzorování v této oblasti, s výjimkou působnosti podle písmena a), a čl. 7 nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43) v rozsahu, v jakém se týká reklamy na diagnostické zdravotnické prostředky in vitro,
+>
+> - c) Ministerstvo zdravotnictví30) pro reklamu na zdravotní služby a sponzorování v této oblasti, s výjimkou působnosti podle písmena a),
+>
+> - d) Ústřední kontrolní a zkušební ústav zemědělský26a) pro reklamu na přípravky na ochranu rostlin a pomocné prostředky a na medikovaná krmiva a meziprodukty, s výjimkou působnosti podle písmena a),
+>
+> - e) Ústav pro státní kontrolu veterinárních biopreparátů a léčiv31) pro reklamu na veterinární léčivé přípravky, s výjimkou působnosti podle písmena a),
+>
+> - f) Úřad pro ochranu osobních údajů pro nevyžádanou reklamu šířenou elektronickými prostředky10a) podle zvláštního právního předpisu32), je-li způsob šíření této reklamy nekalou obchodní praktikou,
+>
+> - g) Státní zemědělská a potravinářská inspekce pro požadavky stanovené zákonem [[o potravinách a tabákových výrobcích|o potravinách a tabákových výrobcích]]41), zejména pokud jde o uvedení informace naznačující, že země původu potraviny je Česká republika, pro výživové nebo zdravotní tvrzení podle přímo použitelného předpisu Evropské unie o výživových a zdravotních tvrzeních21a), pro zavádějící informaci užitou v rozporu s přímo použitelným předpisem Evropské unie o poskytování informací o potravinách spotřebitelům39) a pro údaje použité v rozporu s přímo použitelnými předpisy Evropské unie, které stanoví pravidla pro použití označení původu, zeměpisných označení a tradičních výrazů40) v reklamě na potraviny, včetně sponzorování, a pro reklamu na psychomodulační látky, s výjimkou působnosti podle písmena a),
+>
+> - h) celní úřady pro reklamu, propagaci nebo podporu hazardních her a sponzorování v této oblasti, s výjimkou působnosti podle písmene a),
+>
+> - i) krajské živnostenské úřady32a) v ostatních případech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2017/745 (výslovně uvedeno v místním znění)
+- akt EU 2017/746 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33fc581bc26896580841 -->
+
 ### § 7a — Uchovávací a informační povinnosti
 
 > **§ 7a**
@@ -2544,6 +4202,60 @@ Zvláštní zahrnutí teleshoppingu — pojem podle § 2 odst. 1 písm. r) záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4847357aef10dabfec3b generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 7a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Zadavatel reklamy je povinen uchovávat ukázku (kopii) každé reklamy nejméně po dobu 5 let ode dne, kdy byla reklama naposledy šířena. V případě, že bylo zahájeno správní řízení33) podle tohoto zákona před uplynutím lhůty uvedené ve větě první, je zadavatel reklamy povinen uchovávat ukázku (kopii) reklamy, která je předmětem správního řízení, až do pravomocného rozhodnutí ve věci. Na písemné vyžádání je povinen bezplatně zapůjčit na dobu nezbytně nutnou kopii reklamy orgánům dozoru.
+>
+> (2) Zadavatel reklamy je povinen na výzvu orgánů dozoru pro účely správního řízení podle tohoto zákona poskytnout ve lhůtě stanovené orgánem dozoru údaje o šiřiteli a o zpracovateli jím zadané reklamy a další materiály a informace vztahující se k této reklamě; tyto údaje a materiály je zadavatel povinen uchovávat po dobu 5 let ode dne, kdy byla reklama naposledy šířena. V případě, že bylo zahájeno správní řízení33) podle tohoto zákona před uplynutím této lhůty, je zadavatel povinen uchovávat údaje a materiály týkající se reklamy, která je předmětem správního řízení, až do pravomocného rozhodnutí ve věci.
+>
+> (3) Zpracovatel reklamy je povinen na výzvu orgánů dozoru pro účely správního řízení podle tohoto zákona sdělit ve lhůtě stanovené orgánem dozoru, nejméně však do 5 pracovních dnů, údaje o zadavateli reklamy a o šiřiteli reklamy, je-li mu znám.
+>
+> (4) Šiřitel reklamy je povinen na výzvu orgánů dozoru pro účely správního řízení podle tohoto zákona sdělit ve lhůtě stanovené orgánem dozoru, nejméně však do 5 pracovních dnů, údaje o osobě zadavatele a zpracovatele reklamy a údaje o osobě, která u něj šíření reklamy objednala.
+>
+> (5) Povinnosti podle odstavců 1 až 4 se vztahují i na zpracovatele, zadavatele a šiřitele teleshoppingu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4847357aef10dabfec3b -->
+
 ### § 7b — Posuzování nekalých praktik a srovnávací reklamy
 
 > **§ 7b**
@@ -2607,6 +4319,56 @@ Test **přiměřenosti** požadavku (odst. 2) chrání zadavatele před šikanó
 **Typicky rozhodné důkazy / podklady:** podoba reklamy se skutkovými tvrzeními, výzva orgánu a její odůvodnění, podklady předložené zadavatelem (studie, data), posouzení přiměřenosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b3d01099a166396d2e86 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 7b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Při posuzování, zda je reklama nekalou obchodní praktikou5), postupuje orgán dozoru podle zvláštního právního předpisu5).
+>
+> (2) Při posuzování, zda se jedná o nepovolenou srovnávací reklamu nebo o reklamu, která je nekalou obchodní praktikou, je orgán dozoru oprávněn požadovat na zadavateli reklamy předložení důkazů o správnosti skutkových tvrzení v reklamě, je-li takový požadavek přiměřený s ohledem na okolnosti případu nebo na oprávněné zájmy zadavatele reklamy nebo jiné osoby.
+>
+> (3) Orgán dozoru může považovat tvrzení v reklamě za nesprávná, jestliže důkazy požadované podle odstavce 2 nebyly poskytnuty ve stanovené lhůtě nebo v nezbytně nutném rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3d01099a166396d2e86 -->
 
 ### § 7c — Zvláštní opatření orgánu dozoru
 
@@ -2683,6 +4445,54 @@ Opravné prohlášení je obdobou soukromoprávní zdržovací žaloby a omluvy 
 **Typicky rozhodné důkazy / podklady:** záznam a obsah reklamy, doklad o médiu šíření, odůvodnění hrozby zdraví, rozhodnutí orgánu a doklad o jeho pravomoci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=815a587c03601cdae865 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 7c — Zvláštní opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Orgán dozoru může nařídit odstranění nebo ukončení reklamy, která je v rozporu se zákonem, a určit k tomu přiměřenou lhůtu. Může též zakázat nepřípustnou srovnávací reklamu nebo reklamu, která je nekalou obchodní praktikou. Orgán dozoru je oprávněn pozastavit zahájení šíření nepovolené srovnávací reklamy nebo reklamy, která je nekalou obchodní praktikou5). Pro takový postup se nevyžaduje vznik skutečné ztráty či jiné újmy způsobené takovou reklamou, ani zavinění zadavatele reklamy; tento postup však nezakládá oprávnění k zavedení systému předběžné kontroly návrhů reklamy před jejím šířením.
+>
+> (2) Orgán dozoru rozhodnutí vydané podle odstavce 1 nebo podle [[#§ 8a|§ 8a]] vhodným způsobem zveřejní, jestliže by v důsledku dalšího šíření reklamy mohl být ohrožen život nebo zdraví osob. Orgán dozoru je oprávněn zadavateli nebo zpracovateli reklamy nařídit ve stanovené lhůtě zveřejnění opravného prohlášení k reklamě, která byla shledána pravomocným rozhodnutím nepovolenou srovnávací reklamou nebo nekalou obchodní praktikou a o jejímž odstranění nebo ukončení bylo pravomocně rozhodnuto, ve stejném komunikačním médiu, kterým byla taková reklama šířena. Náklady na zveřejnění opravného prohlášení nese ten, komu orgán dozoru jeho zveřejnění nařídil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=815a587c03601cdae865 -->
 
 ## Přestupky
 
@@ -2838,6 +4648,127 @@ Přestupky podle § 8 jsou stíhány v režimu **zákona č. 250/2016 Sb. o odpo
 **Typicky rozhodné důkazy / podklady:** obsah a podoba reklamy, doklad o úplatě/objednávce, žádost o identifikaci, doklad o daru/výhodě, podklady k zavinění a majetkovým poměrům.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b229a53fa43db09c6cd7 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako šiřitel dopustí přestupku tím, že
+>
+> - a) neoznámí osobě, která prokáže oprávněný zájem podle § 6b odst. 2, kdo je zadavatelem nebo zpracovatelem,
+>
+> - b) šíří reklamu, která je podle § 2 odst. 1 písm. a), b) nebo d) zakázána,
+>
+> - c) poruší povinnost odlišit způsob šíření informace o výrobku nebo službě od způsobu šíření informace o tabákovém výrobku podle § 3 odst. 3 nebo šíří reklamu na tabákové výrobky jinak, než je uvedeno v § 3 odst. 4,
+>
+> - d) poruší zákaz bezplatného dodávání vzorků široké veřejnosti u tabákových výrobků podle § 3 odst. 7 nebo u humánních léčivých přípravků podle § 5a odst. 4 nebo u zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro podle § 5l odst. 2,
+>
+> - e) šíří vůči veřejnosti reklamu na veterinární léčivé přípravky, která je v rozporu s [[#§ 5h|§ 5h]] nebo s čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) 2019/6,
+>
+> - f) šíří reklamu na střelné zbraně a střelivo v rozporu s [[#§ 6|§ 6]],
+>
+> - g) šíří reklamu činností v pohřebnictví v rozporu s [[#§ 6a|§ 6a]],
+>
+> - h) v rozporu s § 2 odst. 1 písm. c) šíří nevyžádanou reklamu v listinné podobě,
+>
+> - i) v rozporu s § 5b odst. 1 nebo § 5m odst. 1 šíří prostřednictvím komunikačních prostředků reklamu na humánní léčivé přípravky nebo na zdravotnické prostředky nebo diagnostické zdravotnické prostředky in vitro, která je zaměřena na odborníky, aniž by tyto komunikační prostředky byly určeny převážně pro odborníky, jichž se reklama na daný typ produktu týká,
+>
+> - j) poruší zákaz nabízet, slibovat nebo poskytovat dary nebo jiný prospěch podle § 5b odst. 4 nebo § 5m odst. 2,
+>
+> - k) poruší povinnost stanovenou pro šíření reklamy na počáteční kojeneckou výživu podle § 5e odst. 1,
+>
+> - l) šíří reklamu na hazardní hru zakázanou podle zákona upravujícího hazardní hry,
+>
+> - m) nesdělí na výzvu orgánu dozoru a ve lhůtě jím stanovené údaje o osobě zadavatele nebo zpracovatele reklamy nebo o osobě, která u něj šíření reklamy objednala, podle § 7a odst. 4,
+>
+> - n) v rozporu s § 3a odst. 1 šíří reklamu na elektronické cigarety nebo na náplně do nich,
+>
+> - o) šíří vůči veřejnosti reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2019/4|2019/4]], nebo
+>
+> - p) v rozporu s § 3b odst. 1 šíří reklamu na psychomodulační látky.
+>
+> (2) Fyzická osoba jako zadavatel reklamy se dopustí přestupku tím, že
+>
+> - a) zadá reklamu, která je podle § 2 odst. 1 písm. a) nebo e), § 3 odst. 1 nebo § 5n odst. 1 zakázána nebo je v rozporu s § 3 odst. 5,
+>
+> - b) poruší podmínky stanovené pro obsah reklamy v § 2 odst. 3 nebo [[#§ 4|4]], [[#§ 2c|§ 2c]], § 3 odst. 6, [[#§ 4|§ 4]], § 5 odst. 3, [[#§ 4|4]] nebo [[#§ 5|5]], § 5a odst. 1, [[#§ 2|2]], [[#§ 5|5]], [[#§ 6|6]], [[#§ 7|7]] nebo [[#§ 8|8]], § 5b odst. 2 nebo [[#§ 8|8]], § 5c odst. 1 nebo [[#§ 2|2]], [[#§ 5d|§ 5d]], § 5e odst. 1, [[#§ 5f|§ 5f]], [[#§ 5g|§ 5g]], [[#§ 5h|§ 5h]], [[#§ 5i|§ 5i]], [[#§ 5j|§ 5j]], § 5k odst. 3, [[#§ 4|4]], [[#§ 5|5]], [[#§ 6|6]] nebo [[#§ 7|7]], § 5l odst. 1, [[#§ 3|3]], [[#§ 4|4]] nebo [[#§ 5|5]], § 5m odst. 1 nebo § 5n odst. 2, nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) nebo v čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) [[2019/6|2019/6]] nebo v nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43),
+>
+> - c) poruší podmínky stanovené pro srovnávací reklamu uvedené v § 2 odst. 2 nebo [[#§ 2a|§ 2a]],
+>
+> - d) neuchová ukázku (kopii) každé reklamy podle § 7a odst. 1 nebo bezplatně nezapůjčí kopii reklamy orgánům dozoru na dobu nezbytně nutnou nebo nesplní povinnost podle § 7a odst. 2,
+>
+> - e) zadá reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2019/4|2019/4]], nebo
+>
+> - f) zadá reklamu na psychomodulační látky, která je v rozporu s § 3b odst. 1.
+>
+> (3) Fyzická osoba se jako zpracovatel dopustí přestupku tím, že
+>
+> - a) zpracuje reklamu, která je zakázána podle § 2 odst. 1 písm. a) nebo e) nebo § 3 odst. 1,
+>
+> - b) v rozporu s § 2 odst. 1 písm. b) zpracuje reklamu, která je nekalou obchodní praktikou,
+>
+> - c) poruší podmínky stanovené pro srovnávací reklamu podle § 2 odst. 2 nebo [[#§ 2a|§ 2a]],
+>
+> - d) poruší podmínky stanovené pro obsah reklamy podle § 2 odst. 3 nebo [[#§ 4|4]], [[#§ 2c|§ 2c]], § 3 odst. 6, [[#§ 4|§ 4]], § 5 odst. 3, [[#§ 4|4]] nebo [[#§ 5|5]], § 5a odst. 1, [[#§ 2|2]], [[#§ 5|5]], [[#§ 6|6]], [[#§ 7|7]] nebo [[#§ 8|8]], § 5b odst. 2 nebo [[#§ 8|8]], § 5c odst. 1 nebo [[#§ 2|2]], [[#§ 5d|§ 5d]], § 5e odst. 1, [[#§ 5f|§ 5f]], [[#§ 5g|5g]], [[#§ 5h|5h]], [[#§ 5i|§ 5i]], § 5k odst. 3, [[#§ 4|4]], [[#§ 5|5]], [[#§ 6|6]] nebo [[#§ 7|7]], § 5l odst. 1, [[#§ 3|3]], [[#§ 4|4]] nebo [[#§ 5|5]], § 5m odst. 1 nebo § 5n odst. 2, nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) nebo v čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) [[2019/6|2019/6]] nebo v nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43),
+>
+> - e) neuvede v reklamě na tabákový výrobek varování podle § 3 odst. 5,
+>
+> - f) v rozporu s § 7a odst. 3 nesdělí na výzvu orgánu dozoru a ve lhůtě jím stanovené údaje o zadavateli reklamy a šiřiteli reklamy,
+>
+> - g) zpracuje reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2019/4|2019/4]], nebo
+>
+> - h) zpracuje reklamu na psychomodulační látky, která je v rozporu s § 3b odst. 1.
+>
+> (4) Odborník se dopustí přestupku tím, že vyžaduje nebo přijímá výhody, které jsou podle § 5b odst. 4 nebo § 5m odst. 2 zakázané nebo které jsou v rozporu s § 5b odst. 5 nebo § 5m odst. 3.
+>
+> (5) Za přestupek lze uložit pokutu
+>
+> - a) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. j) nebo podle odstavce 4,
+>
+> - b) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm.a) nebo m), odstavce 2 písm. d) nebo podle odstavce 3 písm. f),
+>
+> - c) do 2 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), d), e), f), g), h), i), k), l), n), o) nebo p), podle odstavce 2 písm. a), b), c), e) nebo f) nebo podle odstavce 3 písm. a), b), c), d), e), g) nebo h).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6b, § 2, § 3, § 5a, § 5l, § 5h, § 6, § 6a, § 5b, § 5m, § 5e, § 7a, § 3a, § 3b, § 5n, § 4, § 2c, § 5, § 7, § 5c, § 5d, § 5f, § 5g, § 5i, § 5j, § 5k, § 2a
+
+##### Souvisící předpisy
+
+- akt EU 2017/745 (výslovně uvedeno v místním znění)
+- akt EU 2017/746 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b229a53fa43db09c6cd7 -->
 
 ### § 8a — Přestupky právnických a podnikajících fyzických osob
 
@@ -3059,6 +4990,187 @@ Při ukládání pokuty se podle § 37 přestupkového zákona zohledňuje:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c8a5c649bd8828d2f65a generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 8a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že jako šiřitel
+>
+> - a) neoznámí osobě, která prokáže oprávněný zájem podle § 6b odst. 2, kdo je zadavatelem nebo zpracovatelem,
+>
+> - b) šíří reklamu, která je podle § 2 odst. 1 písm. a), b) nebo d) zakázána,
+>
+> - c) v rozporu s § 2 odst. 1 písm. c) šíří nevyžádanou reklamu v listinné podobě,
+>
+> - d) poruší povinnost odlišit způsob šíření informace o výrobku nebo službě od způsobu šíření informace o tabákovém výrobku podle § 3 odst. 3 nebo šíří reklamu na tabákové výrobky jinak, než je uvedeno v § 3 odst. 4,
+>
+> - e) poruší zákaz bezplatného dodávání vzorků široké veřejnosti u tabákových výrobků podle § 3 odst. 7 nebo u humánních léčivých přípravků podle § 5a odst. 4 nebo u zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro podle § 5l odst. 2,
+>
+> - f) v rozporu s § 5b odst. 1 nebo § 5m odst. 1 šíří prostřednictvím komunikačních prostředků reklamu na humánní léčivé přípravky nebo na zdravotnické prostředky nebo diagnostické zdravotnické prostředky in vitro, která je zaměřena na odborníky, aniž by tyto komunikační prostředky byly určeny převážně pro odborníky, jichž se reklama na daný typ produktu týká,
+>
+> - g) poruší povinnosti obchodního zástupce podle § 5b odst. 3,
+>
+> - h) poruší zákaz nabízet, slibovat nebo poskytovat dary nebo jiný prospěch podle § 5b odst. 4 nebo § 5m odst. 2,
+>
+> - i) poskytne vzorky humánních léčivých přípravků v rozporu s § 5b odst. 7,
+>
+> - j) poruší povinnost stanovenou pro šíření reklamy na počáteční kojeneckou výživu podle [[#§ 5e|§ 5e]],
+>
+> - k) šíří reklamu na střelné zbraně a střelivo v rozporu s [[#§ 6|§ 6]],
+>
+> - l) šíří reklamu činností v pohřebnictví v rozporu s [[#§ 6a|§ 6a]],
+>
+> - m) šíří vůči veřejnosti reklamu na veterinární léčivé přípravky, která je v rozporu s [[#§ 5h|§ 5h]] nebo s čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) 2019/6,
+>
+> - n) v rozporu s § 2 odst. 1 písm. b) šíří reklamu, která je nekalou obchodní praktikou,
+>
+> - o) šíří reklamu na hazardní hru zakázanou podle zákona upravujícího hazardní hry,
+>
+> - p) nesdělí na výzvu orgánu dozoru a ve lhůtě jím stanovené údaje o osobě zadavatele nebo zpracovatele reklamy nebo o osobě, která u něj šíření reklamy objednala, podle § 7a odst. 4,
+>
+> - q) v rozporu s § 3a odst. 1 šíří reklamu na elektronické cigarety nebo na náhradní náplně do nich,
+>
+> - r) šíří vůči veřejnosti reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2019/4|2019/4]], nebo
+>
+> - s) v rozporu s § 3b odst. 1 šíří reklamu na psychomodulační látky.
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako zadavatel dopustí přestupku tím, že
+>
+> - a) zadá reklamu, která je zakázána podle § 2 odst. 1 písm. a), § 3 odst. 1 nebo § 5n odst. 1,
+>
+> - b) v rozporu s § 2 odst. 1 písm. b) zadá reklamu, která je nekalou obchodní praktikou,
+>
+> - c) poruší podmínky stanovené pro srovnávací reklamu podle § 2 odst. 2 nebo [[#§ 2a|§ 2a]],
+>
+> - d) poruší podmínky stanovené pro obsah reklamy podle § 2 odst. 3 nebo [[#§ 4|4]], [[#§ 2c|§ 2c]], § 3 odst. 6, [[#§ 4|§ 4]], § 5 odst. 3, [[#§ 4|4]] nebo [[#§ 5|5]], § 5a odst. 1, [[#§ 2|2]], [[#§ 5|5]], [[#§ 6|6]], [[#§ 7|7]] nebo [[#§ 8|8]], § 5b odst. 2 nebo [[#§ 8|8]], § 5c odst. 1 nebo [[#§ 2|2]], § 5d odst. 3 nebo [[#§ 4|4]], § 5e odst. 1, [[#§ 5f|§ 5f]], [[#§ 5h|5h]], [[#§ 5i|§ 5i]], [[#§ 5j|5j]], § 5k odst. 3, [[#§ 4|4]], [[#§ 5|5]], [[#§ 6|6]] nebo [[#§ 7|7]], § 5l odst. 1, [[#§ 3|3]], [[#§ 4|4]] nebo [[#§ 5|5]], § 5m odst. 1 nebo § 5n odst. 2, nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) nebo v čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) [[2019/6|2019/6]] nebo v nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43),
+>
+> - e) neuvede v reklamě na tabákový výrobek varování podle § 3 odst. 5,
+>
+> - f) v rozporu s § 7a odst. 1 neuchová ukázku (kopii) každé reklamy nebo bezplatně nezapůjčí kopii reklamy orgánům dozoru na dobu nezbytně nutnou,
+>
+> - g) nesplní povinnost podle § 7a odst. 2,
+>
+> - h) zadá reklamu na přípravky na ochranu rostlin v rozporu s přímo použitelným předpisem Evropské unie upravujícím uvádění přípravků na ochranu rostlin na trh27a),
+>
+> - i) zadá reklamu na potraviny, ve které jsou uvedena výživová nebo zdravotní tvrzení v rozporu s přímo použitelným předpisem Evropské unie upravujícím údaje týkající se potravin z hlediska jejich nutriční hodnoty a vlivu na zdraví21a),
+>
+> - j) zadá reklamu na potraviny, která nesplňuje požadavky stanovené zákonem [[o potravinách a tabákových výrobcích|o potravinách a tabákových výrobcích]]41), zejména pokud jde o uvedení informace naznačující, že země původu potraviny je Česká republika, požadavky stanovené přímo použitelným předpisem Evropské unie upravujícím poskytování informací o potravinách spotřebitelům39) nebo přímo použitelným předpisem Evropské unie, který stanoví pravidla pro použití označení původu, zeměpisných označení nebo tradičních výrazů40),
+>
+> - k) zadá reklamu na hazardní hru zakázanou podle zákona upravujícího hazardní hry,
+>
+> - l) zadá reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) 2019/4, nebo
+>
+> - m) zadá reklamu na psychomodulační látky, která je v rozporu s § 3b odst. 1.
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako zpracovatel dopustí přestupku tím, že
+>
+> - a) zpracuje reklamu, která je zakázána podle § 2 odst. 1 písm. a) nebo § 3 odst. 1 nebo je v rozporu s [[#§ 5j|§ 5j]],
+>
+> - b) v rozporu s § 2 odst. 1 písm. b) zpracuje reklamu, která je nekalou obchodní praktikou,
+>
+> - c) poruší podmínky stanovené pro srovnávací reklamu podle § 2 odst. 2 nebo [[#§ 2a|§ 2a]],
+>
+> - d) poruší podmínky stanovené pro obsah reklamy podle § 2 odst. 3 nebo [[#§ 4|4]], [[#§ 2c|§ 2c]], § 3 odst. 6, [[#§ 4|§ 4]], § 5 odst. 3, [[#§ 4|4]] nebo [[#§ 5|5]], § 5a odst. 1, [[#§ 2|2]], [[#§ 5|5]], [[#§ 6|6]], [[#§ 7|7]] nebo [[#§ 8|8]], § 5b odst. 2 nebo [[#§ 8|8]], § 5c odst. 1 nebo [[#§ 2|2]], § 5d odst. 3 nebo [[#§ 4|4]], § 5e odst. 1, [[#§ 5f|§ 5f]], [[#§ 5h|§ 5h]], [[#§ 5i|5i]], § 5k odst. 3, [[#§ 4|4]], [[#§ 5|5]], [[#§ 6|6]] nebo [[#§ 7|7]], § 5l odst. 1, [[#§ 3|3]], [[#§ 4|4]] nebo [[#§ 5|5]], § 5m odst. 1 nebo § 5n odst. 2, nařízení Evropského parlamentu a Rady (EU) [[2017/745|2017/745]]42) nebo v čl. 119, 120 nebo 121 nařízení Evropského parlamentu a Rady (EU) [[2019/6|2019/6]] nebo v nařízení Evropského parlamentu a Rady (EU) [[2017/746|2017/746]]43),
+>
+> - e) neuvede v reklamě na tabákový výrobek varování podle § 3 odst. 5,
+>
+> - f) v rozporu s § 7a odst. 3 nesdělí na výzvu orgánu dozoru a ve lhůtě jím stanovené údaje o zadavateli reklamy nebo o šiřiteli reklamy,
+>
+> - g) zpracuje reklamu na přípravky na ochranu rostlin v rozporu s přímo použitelným předpisem Evropské unie upravujícím uvádění přípravků na ochranu rostlin na trh27a),
+>
+> - h) zpracuje reklamu na potraviny, ve které jsou uvedena výživová nebo zdravotní tvrzení v rozporu s přímo použitelným předpisem Evropské unie upravujícím údaje týkající se potravin z hlediska jejich nutriční hodnoty a vlivu na zdraví21a),
+>
+> - i) zpracuje reklamu na potraviny, která nesplňuje požadavky stanovené zákonem [[o potravinách a tabákových výrobcích|o potravinách a tabákových výrobcích]]41), zejména pokud jde o uvedení informace naznačující, že země původu potraviny je Česká republika, požadavky stanovené přímo použitelným předpisem Evropské unie upravujícím poskytování informací o potravinách spotřebitelům39) nebo přímo použitelným předpisem Evropské unie, který stanoví pravidla pro použití označení původu, zeměpisných označení nebo tradičních výrazů40),
+>
+> - j) zpracuje reklamu na hazardní hru zakázanou podle zákona upravujícího hazardní hry,
+>
+> - k) zpracuje reklamu na medikovaná krmiva nebo meziprodukty, která je v rozporu s čl. 11 nařízení Evropského parlamentu a Rady (EU) 2019/4, nebo
+>
+> - l) zpracuje reklamu na psychomodulační látky, která je v rozporu s § 3b odst. 1.
+>
+> (4) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) poruší zákaz nabízet, slibovat nebo poskytovat dary nebo jiný prospěch podle § 5b odst. 4, § 5m odst. 2 nebo čl. 121 nařízení Evropského parlamentu a Rady (EU) 2019/6,
+>
+> - b) poskytuje bezplatně pohoštění a ubytování v rozporu s § 5b odst. 5, § 5m odst. 3 nebo čl. 121 nařízení Evropského parlamentu a Rady (EU) 2019/6,
+>
+> - c) vyžaduje nebo přijímá v souvislosti s reklamou výhody, které jsou zakázané podle § 5b odst. 4 nebo § 5m odst. 2 nebo které jsou v rozporu s § 5b odst. 5 nebo § 5m odst. 3, nebo vyžaduje nebo přijímá v souvislosti s reklamou veterinárních léčivých přípravků výhody, které jsou zakázané podle čl. 121 nařízení Evropského parlamentu a Rady (EU) 2019/6, nebo
+>
+> - d) poruší zákaz sponzorování podle [[#§ 3|§ 3]], [[#§ 3a|3a]] nebo [[#§ 3b|3b]].
+>
+> (5) Za přestupek podle odstavce 1 lze uložit pokutu
+>
+> - a) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo p)
+>
+> - b) do 2 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), d), e), f), g), h), i), j), k), l), m), q), r) nebo s),
+>
+> - c) do 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. n) nebo o).
+>
+> (6) Za přestupek podle odstavce 2 lze uložit pokutu
+>
+> - a) do 500 000 Kč, jde-li o přestupek podle odstavce 2 písm. f) nebo g),
+>
+> - b) do 2 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), c), d), e), h), i), j), l) nebo m),
+>
+> - c) do 5 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b) nebo k).
+>
+> (7) Za přestupek podle odstavce 3 lze uložit pokutu
+>
+> - a) do 500 000 Kč, jde-li o přestupek podle odstavce 3 písm. f),
+>
+> - b) do 2 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. a), c), d), e), g), h), i), k) nebo l),
+>
+> - c) do 5 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. b) nebo j).
+>
+> (8) Za přestupek podle odstavce 4 lze uložit pokutu
+>
+> - a) do 1 000 000 Kč, jde-li o přestupek podle odstavce 4 písm. a) nebo b),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 4 písm. c),
+>
+> - c) do 2 000 000 Kč, jde-li o přestupek podle odstavce 4 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6b, § 2, § 3, § 5a, § 5l, § 5b, § 5m, § 5e, § 6, § 6a, § 5h, § 7a, § 3a, § 3b, § 5n, § 2a, § 4, § 2c, § 5, § 7, § 8, § 5c, § 5d, § 5f, § 5i, § 5j, § 5k
+
+##### Souvisící předpisy
+
+- akt EU 2017/745 (výslovně uvedeno v místním znění)
+- akt EU 2017/746 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c8a5c649bd8828d2f65a -->
+
 ### § 8b — Společná ustanovení
 
 > **§ 8b**
@@ -3119,6 +5231,54 @@ Pokuty jsou:
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o uložení pokuty, určení věcně příslušného orgánu, doklad o rozpočtové povaze pokuty, právní titul k výběru/vymáhání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e7af49153e94bef49f48 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 8b — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona projednávají orgány dozoru podle své působnosti stanovené v [[#§ 7|§ 7]].
+>
+> (2) Státní zemědělská a potravinářská inspekce a Ústřední kontrolní a zkušební ústav zemědělský vybírají pokutu, kterou uložily. Pokutu, která je příjmem rozpočtu kraje, vybírá a vymáhá příslušný krajský úřad, s výjimkou pokut uložených příkazem na místě, které vybírá příslušný krajský živnostenský úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7af49153e94bef49f48 -->
 
 ### § 8c — Odvolání a soudní přezkum
 
@@ -3188,6 +5348,54 @@ Toto pravidlo odráží **nezávislé postavení RRTV** podle čl. 18 odst. 1 z�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí orgánu dozoru a doklad o jeho doručení, identifikace vydávajícího orgánu, podání opravného prostředku a doklad o dodržení lhůty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=239563a9fbc0ccbc9185 generator=2026-07-17.4 source_sha256=9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591 -->
+#### Revizní doplnění k § 8c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 10. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1995/40-1995 Zákon o regulaci reklamy a o změně a doplnění zákona č. 468_1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.md`; identifikátor verze: `SB-1995-00040_2025-10-10`; SHA-256: `9358c652286edb9a004ab86d062d8a993af74151ce01b6791d5c79f2134c1591`.
+
+##### Znění ustanovení
+
+> (1) Proti rozhodnutí orgánů dozoru uvedených v § 7 písm. b), c), d), e), f), g), h) a i) vydaných podle [[#§ 7c|§ 7c]], [[#§ 8|8]] a [[#§ 8a|8a]] lze podat ve lhůtě 15 dnů ode dne oznámení rozhodnutí odvolání36).
+>
+> (2) Proti rozhodnutí orgánu dozoru uvedeného v § 7 písm. a) vydanému podle [[#§ 7c|§ 7c]], [[#§ 8|8]] a [[#§ 8a|8a]] nelze podat odvolání. Podání správní žaloby37) proti rozhodnutí orgánu dozoru uvedeného v § 7 písm. a) o uložení pokuty za přestupek má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 7c, § 8, § 8a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=239563a9fbc0ccbc9185 -->
 
 ## Závěrečné a změnové ustanovení (Čl. II a III)
 
